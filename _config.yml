@@ -1,30 +1,30 @@
 # General Settings
-name: Steve Austin
-job_title: UI/UX Engineer
-email: youremail@gmail.com
-description: I build great products at Google, currently Google Maps. I also enjoy capturing moments with my camera and discovering new music. Follow me Twitter or drop me a line.
-avatar: https://s3.amazonaws.com/uifaces/faces/twitter/dancounsell/128.jpg
+name: Arturo Moncada Torres
+job_title: Biomedical Data Scientist
+email: arturomoncadatorres@gmail.com
+description: Passionate about improving people’s health through data-driven solutions. Nintendo and Marvel enthousiast.
+#avatar: https://s3.amazonaws.com/uifaces/faces/twitter/dancounsell/128.jpg
 favicon: /favicon.ico
-twitter_handler: your_handler
+twitter_handler: amoncadatorres
 analytics_code: UA-XXXXXXX-2
 disqus: your_disqus_site
 
 # Social Accounts
 social_networks:
--  { name: facebook, url: 'http://facebook.com' }
--  { name: twitter, url: 'http://twitter.com' }
+-  { name: facebook, url: '' }
+-  { name: twitter, url: 'http://twitter.com/amoncadatorres' }
 -  { name: instagram, url: '' }
 -  { name: google-plus, url: '' }
--  { name: linkedin, url: '' }
+-  { name: linkedin, url: 'https://www.linkedin.com/in/arturomoncadatorres/' }
 -  { name: skype, url: '' }
--  { name: github, url: '' }
+-  { name: github, url: 'https://github.com/arturomoncadatorres' }
 -  { name: codepen, url: '' }
 -  { name: stack-overflow, url: '' }
 -  { name: dribbble, url: '' }
 -  { name: behance, url: '' }
 -  { name: pinterest, url: '' }
 -  { name: tumblr, url: '' }
--  { name: youtube, url: '' }
+-  { name: youtube, url: 'https://www.youtube.com/channel/UCMORmWOBKewmqVYI3PZFABQ?feature=mhee' }
 -  { name: vimeo, url: '' }
 -  { name: vine, url: '' }
 -  { name: 500px, url: '' }
