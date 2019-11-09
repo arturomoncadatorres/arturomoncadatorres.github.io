@@ -12,7 +12,8 @@ ruby RUBY_VERSION
 #gem "jekyll", "3.8.4"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
-# uncomment the line below. To upgrade, run `bundle update github-pages`.
+# uncomment the line below. To upgrade, run `bundle update github-pages`
+# (or `gem update github-pages` if you used a gem instead of a bundle).
 gem "github-pages", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
