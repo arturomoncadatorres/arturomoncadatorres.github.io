@@ -1,0 +1,10 @@
+@Article{moncada-torres2014activity,
+  Title                    = {Activity classification based on inertial and barometric pressure sensors at different anatomical locations},
+  Author                   = {Moncada-Torres, Arturo and Leuenberger, Kaspar and Gonzenbach, Roman and Luft, Andreas and Gassert, Roger},
+  Journal                  = {Physiological Measurement},
+  Year                     = {2014},
+  Number                   = {7},
+  Pages                    = {1245--1263},
+  Volume                   = {35},
+  Url                      = {http://stacks.iop.org/0967-3334/35/i=7/a=1245}
+}

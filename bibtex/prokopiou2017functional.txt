@@ -1,0 +1,10 @@
+@Article{prokopiou2017functional,
+  author    = {Prokopiou, Andreas and Moncada-Torres, Arturo and Wouters, Jan and Francart, Tom},
+  title     = {Functional modelling of interaural time difference discrimination in acoustical and electrical hearing},
+  journal   = {Journal of Neural Engineering},
+  year      = {2017},
+  volume    = {14},
+  number    = {4},
+  pages     = {1--21},
+  publisher = {IOP Publishing}
+}

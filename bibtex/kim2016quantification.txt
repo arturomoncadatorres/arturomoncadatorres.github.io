@@ -1,0 +1,10 @@
+@article{kim2016quantification,
+  title={Quantification of long cane usage characteristics with the constant contact technique},
+  author={Kim, Yeongmi and Moncada-Torres, Arturo and Furrer, Jonas and Riesch, Markus and Gassert, Roger},
+  journal={Applied ergonomics},
+  volume={55},
+  pages={216--225},
+  year={2016},
+  publisher={Elsevier},
+  url={http://www.sciencedirect.com/science/article/pii/S0003687016300291}
+}

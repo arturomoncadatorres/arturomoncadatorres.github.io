@@ -1,0 +1,11 @@
+@article{moncada-torres2018framework,
+  title={A framework for computational modelling of interaural time difference discrimination of normal and hearing-impaired listeners},
+  author={Moncada-Torres, Arturo and Joshi, Suyash N. and Prokopiou, Andreas and Wouters, Jan and Epp, Bastian and Francart, Tom},
+  journal={The Journal of the Acoustical Society of America},
+  volume={144},
+  number={2},
+  pages={940--954},
+  year={2018},
+  publisher={ASA},
+  url={https://asa.scitation.org/doi/10.1121/1.5051322}
+}

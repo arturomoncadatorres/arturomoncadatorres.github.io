@@ -6,4 +6,4 @@ author: Arturo
 ---
 
 If the embedded PDF is not displayed properly, <a href="../../pdfs/cv.pdf" target="_blank">please click here.</a>
-<embed src="../../pdfs/cv.pdf" width="1000px" height="800px" />
+<embed src="../../pdfs/cv.pdf" type="application/pdf" width="1000px" height="800px" />

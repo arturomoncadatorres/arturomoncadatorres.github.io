@@ -1,0 +1,11 @@
+@article{moncada2017predicting,
+  title={Predicting phoneme and word recognition in noise using a computational model of the auditory periphery},
+  author={Moncada-Torres, Arturo and van Wieringen, Astrid and Bruce, Ian C and Wouters, Jan and Francart, Tom},
+  journal={The Journal of the Acoustical Society of America},
+  volume={141},
+  number={1},
+  pages={300--312},
+  year={2017},
+  publisher={ASA},
+  url={http://asa.scitation.org/doi/abs/10.1121/1.4973569}
+}

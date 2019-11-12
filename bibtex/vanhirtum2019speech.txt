@@ -1,0 +1,10 @@
+@article{vanhirtum2019speech,
+  title={Speech envelope enhancement instantaneously effaces atypical speech perception in dyslexia},
+  author={Van Hirtum, Tilde and Moncada-Torres, Arturo and Ghesqui{\`e}re, Pol and Wouters, Jan},
+  journal={Ear and hearing},
+  volume={40},
+  number={5},
+  pages={1242--1252},
+  year={2019},
+  publisher={LWW}
+}

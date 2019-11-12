@@ -1,0 +1,6 @@
+@PhdThesis{moncada-torres2018applied,
+  author      = {Moncada-Torres, Arturo},
+  title       = {Applied Physiological Modelling of Auditory Processes - Speech Intelligibility, Modulation Detection, and Binaural Hearing},
+  institution = {KU Leuven},
+  year        = {2018}
+}

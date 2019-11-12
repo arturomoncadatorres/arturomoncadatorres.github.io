@@ -1,0 +1,9 @@
+@article{magits2019effect,
+  title={The effect of presentation level on spectrotemporal modulation detection},
+  author={Magits, Sara and Moncada-Torres, Arturo and Van Deun, Lieselot and Wouters, Jan and van Wieringen, Astrid and Francart, Tom},
+  journal={Hearing research},
+  volume={371},
+  pages={11--18},
+  year={2019},
+  publisher={Elsevier}
+}
