@@ -107,14 +107,14 @@ Pretty straightforward.
 Lastly, you will actually launch Binder. It is very simple, but you need to be careful to get it right. Go to [`https://mybinder.org/`](https://mybinder.org/){: target="_blank"}, where you will see the following panel:
 
 <figure class="aligncenter">
-	<img width="600" src="../multimedia/posts/binder_panel.png"/>
+	<img width="600" src="../multimedia/images/binder_panel.png"/>
 </figure>
 
-In **A**, paste the link to your repository. I prefer working with Github, but you can also use other types of repositories (e.g., GitLab). If you do, *make sure you change it in the corresponding drop-down menu*.
+In **A**, paste the link to your repository. I prefer working with Github, but you can also use other types of repositories (e.g., GitLab). If you do, _make sure you change it in the corresponding drop-down menu_.
 
 In **B**, paste the ID of a specific branch, tag, or commit that you wish. This is optional. If you aren't doing anything fancy and want to generate a link for the master branch of your latest commit, you can leave it empty
 
-In **C**, write `/proxy/5006/bokeh-app`. Also, *make sure to change from File to URL*.
+In **C**, write `/proxy/5006/bokeh-app`. Also, _make sure to change from File to URL_.
 
 The first time you run it, it will take long, since Binder will create the image for your app. If everything went right, it will open a tab in your favorite navigator with you app running. You can use that link to share your app. Good job!
 
@@ -123,7 +123,7 @@ The first time you run it, it will take long, since Binder will create the image
 * If you make a change in your app, you will need to push it to your repository and do step 4 again.
 * Be careful of your dependencies! You might need to define more dependencies than you think. Debugging your environment might be useful (more on that below)
 * Watch out for your paths! If you are using paths for certain files (e.g., read data files), make sure to define them relative to where `main.py` is (credit to [`@jdkent`](https://github.com/jdkent){: target="_blank"}).
-* Debugging. This one can be a real life-saver. To debug your app, create a Python environment from the `environment.yml` file. Then, run `bokeh serve bokeh-app` *at the top level* of your repository (and not within the `bokeh-app` directory), since that is where Binder is running Bokeh. Then, look at the errors that pop in the terminal (credit to [`@jdkent`](https://github.com/jdkent){: target="_blank"}).
+* Debugging. This one can be a real life-saver. To debug your app, create a Python environment from the `environment.yml` file. Then, run `bokeh serve bokeh-app` _at the top level_ of your repository (and not within the `bokeh-app` directory), since that is where Binder is running Bokeh. Then, look at the errors that pop in the terminal (credit to [`@jdkent`](https://github.com/jdkent){: target="_blank"}).
 
 ## Closing remarks
 Big shout out to [`@betatim`](https://github.com/betatim){: target="_blank"} for helping me start with the deployment of my app in Binder. Huge shout out to [`@jdkent`](https://github.com/jdkent){: target="_blank"} for taking time of his busy graduate student life to help me debug my app.

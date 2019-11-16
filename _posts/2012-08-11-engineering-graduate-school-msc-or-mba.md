@@ -5,13 +5,11 @@ author: Arturo
 layout: post
 permalink: /engineering-graduate-school-msc-or-mba/
 categories:
-  - Academic Life
-  - Engineering
+  - Blog
   - Graduate School
 tags:
   - academic life
   - engineering
-  - graduate school
   - masters degree
   - mba
   - msc
