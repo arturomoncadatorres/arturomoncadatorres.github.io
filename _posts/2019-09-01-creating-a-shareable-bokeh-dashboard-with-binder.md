@@ -1,6 +1,6 @@
 ---
 title: Creating a Shareable Bokeh Dashboard with Binder
-date: 2019-08-25T17:53:30+01:00
+date: 2019-09-01T17:53:30+01:00
 author: Arturo
 layout: post
 permalink: /creating-a-shareable-bokeh-dashboard-with-binder/
@@ -31,7 +31,7 @@ Recently, I finished a personal project in which [I analyzed the results of the 
 
 However, I wanted to be able to share the Bokeh app with the general public, preferably through a single URL, due to easiness. This is where things started to get a bit tricky. [Bokeh's documentation states a few options](https://bokeh.pydata.org/en/latest/docs/user_guide/server.html){: target=_"blank"} to do so, but they aren't very straightforward, since they require setting up a hosting system on a server. After some googling, I came across [a post by Jacob Deppen](https://deppen8.github.io/posts/2018/09/shareable-dashboard/){: target="_blank"}, where he described my exact same situation. He suggested doing so using Binder.
 
-[Binder](https://mybinder.org/){: target="_binder"} is an (open source) web service that takes a Github repository and creates a shareable, interactive, reproducible environment in the cloud. This is a perfect solution for what I wanted to achieve. It even has a small tutorial that explains [how to deploy a Bokeh app](https://github.com/binder-examples/bokeh){: target="_blank"}. Unfortunately, I had a few issues to get everything up and running. After more days than I care to admit working on this (and with the help of some great people), I got it working. Therefore, in this post I want to give a more detailed tutorial on how to do so.
+[Binder](https://mybinder.org/){: target="_blank"} is an (open source) web service that takes a Github repository and creates a shareable, interactive, reproducible environment in the cloud. This is a perfect solution for what I wanted to achieve. It even has a small tutorial that explains [how to deploy a Bokeh app](https://github.com/binder-examples/bokeh){: target="_blank"}. Unfortunately, I had a few issues to get everything up and running. After more days than I care to admit working on this (and with the help of some great people), I got it working. Therefore, in this post I want to give a more detailed tutorial on how to do so.
 
 ## 1. Create a (new) repository with the proper structure
 First, to make things easier for us, we need to create a new (Github) repository that will be exclusively dedicated to the interactive visualization. It needs to have the following structure:

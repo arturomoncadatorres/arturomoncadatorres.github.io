@@ -15,6 +15,10 @@ tags:
   - masters degree
   - msc
 ---
+<figure class="alignleft">
+	<img width="32" src="../multimedia/icons/academic.png"/>
+</figure>
+
 A few days ago, a friend asked me for some advice regarding admission to a graduate (Master's) program. I thought this could be the perfect occasion for me to put together my thoughts and experience into this brief post.
 
 <!--more-->

@@ -14,6 +14,10 @@ tags:
   - mba
   - msc
 ---
+<figure class="alignleft">
+	<img width="32" src="../multimedia/icons/academic.png"/>
+</figure>
+
 As an engineer, what kind of graduate school program would be better for me, an MSc or an MBA?
 
 <!--more-->

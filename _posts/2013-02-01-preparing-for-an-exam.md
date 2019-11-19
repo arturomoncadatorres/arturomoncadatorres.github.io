@@ -15,6 +15,10 @@ tags:
   - test
   - undergraduate school
 ---
+<figure class="alignleft">
+	<img width="32" src="../multimedia/icons/academic.png"/>
+</figure>
+
 During the last weeks I have been taking the exams of my first semester as a graduate student of ETH Zürich's [Master Program in Biomedical Engineering](http://www.master-biomed.ethz.ch/){: target="_blank"}. I have to admit that this task has been more challenging than I thought it would be for several reasons.
 
 <!--more-->
