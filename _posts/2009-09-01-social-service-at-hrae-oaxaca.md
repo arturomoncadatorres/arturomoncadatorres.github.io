@@ -19,12 +19,12 @@ In Mexico, in order to complete the credit requirements of any undergraduate pro
 
 In my case, I decided for the latter option - summer of 2009. Not only did I chose it because it wouldn't interfere with my lectures, but this also allowed me doing my social service outside of Mexico City. At first, I thought of the social service as a requirement that I wanted to get done with as soon as possible. I thought I would get the feel of the field work of a Biomedical Engineer, learn one or two new things, and get the credits. I had no clue what kind of experience was before me.
 
-<!--more-->
-
 <figure class="aligncenter">
 	<img width="600" src="../multimedia/photos/hrae.jpg"/>
   <figcaption>Main facade of Oaxaca’s HRAE.</figcaption>
 </figure>
+
+<!--more-->
 
 I was given the opportunity to perform my social service at the [HRAE Oaxaca](http://www.hraeoaxaca.salud.gob.mx/){: target="_blank"}, in the state of Oaxaca. I was incorporated into the BME department of the hospital, under the supervision of Javier Soto-Garcia. He is not only a very competent Biomedical Engineer, but also a great person that took real concern in my stay and (learning) experience. Additionally, I was also very lucky to find myself in a very supportive team: Carmen, David, and *Toño* (morning shift), Marco and Armando (afternoon shift), and Juan Carlos, Herson, and *Conan* (from the neighboring Technical Support & Maintenance Department). Through the day, there was never a fixed schedule. However, the BME department was always busy with a wide range of activities.
 

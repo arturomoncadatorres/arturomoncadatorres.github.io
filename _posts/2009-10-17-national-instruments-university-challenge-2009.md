@@ -20,14 +20,12 @@ tags:
 
 Last week, we obtained the First National Prize in the National Instruments University Challenge 2009 with the project *Home Control System for Handicapped People based on Electrooculography*. It was a very challenging but also very rewarding experience for all of us in the team: Luis E. Lara-Gonzalez, my colleague and friend, and Prof. Jorge A. Martínez-Alarcon, M. Sc., our professor and advisor.
 
-<!--more-->
-
 <figure class="aligncenter">
 	<img width="600" src="../multimedia/photos/ni2009.jpg"/>
   <figcaption>From left to right: Diana González-Ramírez (NI Marketing Coordinator), Luis E. Lara-González (colleague and friend), yours truly, and Arturo Vargas-Mercado (NI Academic Program Manager).</figcaption>
 </figure>
 
-
+<!--more-->
 
 ## Home Control System for Handicapped People based on Electrooculography
 

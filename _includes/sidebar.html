@@ -18,7 +18,8 @@
         {% if site.pages %}
         <div class="mainmenu">
             <a href="{{ site.baseurl | prepend: site.url }}" {% if page.url == "/" %}class="active"{% endif %}>Home</a>
-            {% for p in site.pages %}
+			{% assign sorted_pages = site.pages | sort:"order" %}
+            {% for p in sorted_pages %}
                 {% if p.layout == 'page' %}
                     <a href="{{ p.url | prepend: site.baseurl | prepend: site.url }}" {% if p.url == page.url %}class="active"{% endif %}>{{ p.title }}</a>
                 {% endif %}

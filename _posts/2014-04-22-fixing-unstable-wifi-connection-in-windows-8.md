@@ -19,9 +19,9 @@ tags:
 
 I just upgraded my old laptop to a new one with Windows 8.1 installed. Putting aside the small details of getting used to a new operating system (OS), I found something that was terribly annoying
 
-<!--more-->
-
 Apparently, there is an awful issue with Windows 8.1 management of the wireless adapter. This translates into an unstable, limited WiFi connection. I immediately jumped into the internet, trying to find a solution. Surprisingly, this was a very common issue. Nevertheless, it took me quite a few tries to finally fix it. If you find yourself in the same situation, I recommend you to try the following options (in this order):
+
+<!--more-->
 
 ## 1. Update Windows 8.1.
 

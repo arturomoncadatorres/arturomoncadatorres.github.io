@@ -3,6 +3,7 @@ layout: page
 title:  "Publications"
 permalink: "/publications/"
 author: Arturo
+order: 2
 ---
 
 ### Peer-reviewed Journal Papers
