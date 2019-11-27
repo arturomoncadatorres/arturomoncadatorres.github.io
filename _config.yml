@@ -7,7 +7,7 @@ avatar: /multimedia/avatar.jpeg
 favicon: /favicon.ico
 twitter_handler: amoncadatorres
 analytics_code: UA-XXXXXXX-2
-disqus: your_disqus_site
+disqus: www.arturomoncadatorres.com
 
 # Social Accounts
 social_networks:
@@ -56,7 +56,7 @@ defaults:
       comments: "true"
 
 # Serving
-url: ""
+url: "https://www.arturomoncadatorres.com"
 baseurl: ""
 
 # Includes
