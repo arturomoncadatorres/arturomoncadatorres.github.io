@@ -56,7 +56,7 @@ defaults:
       comments: "true"
 
 # Serving
-url: "https://www.arturomoncadatorres.com"
+url: "https://arturomoncadatorres.github.io/"
 baseurl: ""
 
 # Includes
