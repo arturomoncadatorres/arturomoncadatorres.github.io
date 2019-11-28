@@ -12,7 +12,7 @@ disqus: www.arturomoncadatorres.com
 # Social Accounts
 social_networks:
 -  { name: facebook, url: '' }
--  { name: twitter, url: 'http://twitter.com/amoncadatorres' }
+-  { name: twitter, url: 'https://twitter.com/amoncadatorres' }
 -  { name: instagram, url: '' }
 -  { name: google-plus, url: '' }
 -  { name: linkedin, url: 'https://www.linkedin.com/in/arturomoncadatorres/' }
@@ -56,7 +56,7 @@ defaults:
       comments: "true"
 
 # Serving
-url: "https://arturomoncadatorres.github.io"
+url: "http://arturomoncadatorres.github.io"
 baseurl: ""
 
 # Includes
