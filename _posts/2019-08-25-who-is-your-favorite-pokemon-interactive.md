@@ -9,7 +9,7 @@ categories:
   - Python
   - Data Visualization
   - Nintendo
-tags:
+tags: 
   - bokeh
   - pokemon
   - binder

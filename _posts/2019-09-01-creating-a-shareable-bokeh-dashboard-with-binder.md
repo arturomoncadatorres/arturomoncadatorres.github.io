@@ -3,6 +3,7 @@ title: Creating a Shareable Bokeh Dashboard with Binder
 date: 2019-09-01T17:53:30+01:00
 author: Arturo
 layout: post
+description: How to create a shareable (Github-hosted) Bokeh dashboard 
 permalink: /creating-a-shareable-bokeh-dashboard-with-binder/
 mood: speechless
 categories:
