@@ -6,6 +6,7 @@ Copyright 2017 Long Qian
 Contact: lqian8@jhu.edu
 This script creates tags for your Jekyll blog hosted by Github page.
 No plugins required.
+See https://longqian.me/2017/02/09/github-jekyll-tag/
 
 Updated 2019-12-05
 Arturo Moncada-Torres
