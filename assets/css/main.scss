@@ -193,7 +193,11 @@
 }
 
 .not-found { text-align: center;
-	&.post { padding: 40px; font-size: 16px; }
+	&.post { padding: 40px; font-size: 16px; 
+		a { color: $primary-color; border-bottom: 1px solid $primary-color; @include transition(border .1s ease);
+					&:hover { border: none; }
+				}
+	}
 }
 
 @import "responsive";
