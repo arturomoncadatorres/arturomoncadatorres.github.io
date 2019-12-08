@@ -3,7 +3,7 @@ title: Creating a Shareable Bokeh Dashboard with Binder
 date: 2019-09-01T17:53:30+01:00
 author: Arturo
 layout: post
-description: How to create a shareable (Github-hosted) Bokeh dashboard 
+description: How to create a shareable (Github-hosted) Bokeh dashboard
 permalink: /creating-a-shareable-bokeh-dashboard-with-binder/
 mood: speechless
 categories:
@@ -65,7 +65,7 @@ The files in the `binder` directory are needed to deploy your app in Binder.
 * `bokehserverextension.py`
 This file should have the following content:
 
-{% highlight python %}
+{% highlight python linenos %}
 from subprocess import Popen
 
 def load_jupyter_server_extension(nbapp):
@@ -76,7 +76,7 @@ Popen(["bokeh", "serve", "bokeh-app", "--allow-websocket-origin=*"])
 * `environment.yml`
  In this file, you should define the dependencies of your app (e.g., `numpy`, `pandas`, etc.). It should have at least the following:
 
-{% highlight text %}
+{% highlight text linenos %}
 dependencies:
   - bokeh
   - pip
@@ -88,7 +88,7 @@ dependencies:
 * `postBuild`  
  This file should have the following content:
 
-{% highlight text %}
+{% highlight text linenos %}
 # Enable nbserverproxy
 jupyter serverextension enable --sys-prefix nbserverproxy
 
