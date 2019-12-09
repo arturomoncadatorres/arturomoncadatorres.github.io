@@ -9,6 +9,7 @@ categories:
 tags:
   - binary mask
   - digital image processing
+  - matlab
 ---
 <figure class="alignleft">
 	<img width="32" src="../multimedia/icons/matlab.png"/>
@@ -23,4 +24,4 @@ When working with images, selecting a specific region of an image to work with i
 
 <!--more-->
 
-You can find the script in [MATLAB's File Exchange](http://www.mathworks.com/matlabcentral/fileexchange/43864-generate-mask){: target="_blank"}. The submission includes a demo, which I suggest you try in order to understand how it works. The script includes plenty of comments in which I tried to explain as clear as possible each of the steps. If you still have questions about it or, even better, suggestions for its improvement, please leave a comment either here or in the submission's page.
+You can find the scripts in my [Github repository](https://github.com/arturomoncadatorres/generating-binary-mask){: target="_blank"}, which includes the classic image of Lena to use it in the demo. I suggest play with it in order to understand how it works. The scripts include plenty of comments in which I tried to explain each of the steps as clear as possible. If you still have questions about the implementation or, even better, suggestions for its improvement, please leave a comment here or [file a new issue in Github](https://github.com/arturomoncadatorres/generating-binary-mask/issues){: target="_blank"}.
