@@ -27,9 +27,9 @@ order: 2
 [Back to top](#top)
 
 ### Peer-/Panel-reviewed Posters
-0. **A. Moncada-Torres**, F. Martin, K. Aben, S. Willems, R. Voorham, P. Seegers, G. Geleijnse, "Implementation and Deployment of a Federated Logistic Regression". HealthRI 2020. Utrecht, NL. January 30, 2020.
-0. F. Martin, **A. Moncada-Torres**, M. Sieswerda, J. Van Soest, G. Geleijnse, "Showcasing Federated Learning in Real Time using VANTAGE". HealthRI 2020. Utrecht, NL. January 30, 2020.
-0. K. Ebben, G. Out, **A. Moncada-Torres**, T. van Vegchel, "Projecting Patient Data onto Clinical Decision Trees in Oncoguide". HealthRI 2020. Utrecht, NL. January 30, 2020.
+0. **A. Moncada-Torres**, F. Martin, K. Aben, S. Willems, R. Voorham, P. Seegers, G. Geleijnse, "Implementation and Deployment of a Federated Logistic Regression". HealthRI 2020. Utrecht, Netherlands. January 30, 2020.
+0. F. Martin, **A. Moncada-Torres**, M. Sieswerda, J. van Soest, G. Geleijnse, "Showcasing the Personal Health Train: Federated Learning in Real Time using VANTAGE". HealthRI 2020. Utrecht, Netherlands. January 30, 2020.
+0. K. Ebben, G. Out, **A. Moncada-Torres**, T. van Vegchel, "Projecting Patient Data onto Clinical Decision Trees in Oncoguide". HealthRI 2020. Utrecht, Netherlands. January 30, 2020.
 0. T. Van Hirtum, **A. Moncada-Torres**, P. Ghesquière, J. Wouters, "The potential of speech envelope enhancement for auditory intervention in dyslexia". IHCON 2018. Granlibakken, California, USA. August 15-19, 2018.
 0. T. Van Hirtum, **A. Moncada-Torres**, P. Ghesquière, J. Wouters, "Exploring Speech Envelope Enhancement in Adults with Dyslexia". SPIN 2018. Glasgow, UK. 11 – 12 January, 2018.
 0. **A. Moncada-Torres**, S. N. Joshi. B. Epp, T. Francart. “Decision Device Comparison for Model-based Analysis of ITD Perception in Normal Hearing Listeners”. ARCHES, ICanHear Conference. Zurich, Switzerland. 21 – 23 November, 2016.
