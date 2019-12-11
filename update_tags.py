@@ -4,9 +4,12 @@
 update_tags.py
 Script to automatically create tags posts for a Jekyll blog hosted
 in Github pages. First, it fishes all tags. Then, it creates the
-tags posts. Lastly, it commits and pushes to the corresponding
-repository. Inspired by Long Qian's post
+tags posts. Lastly, it adds the generated files, commits them, and pushes 
+them to the corresponding repository. Preferably run this script
+when having a clean working space (nothing to commit/push).
+Based on Long Qian's post
 https://longqian.me/2017/02/09/github-jekyll-tag/
+
 
 @author: Arturo Moncada-Torres
 arturomoncadatorres@gmail.com
@@ -183,6 +186,3 @@ if __name__ == '__main__':
         origin.push()
     except:
         print("Error occurred while pushing.")
-        
-    # git_commit()
-    # git_push()

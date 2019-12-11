@@ -3,5 +3,7 @@ _site
 .jekyll-metadata
 .idea
 
+__pycache__
+
 # To do's list
 to_do.txt
