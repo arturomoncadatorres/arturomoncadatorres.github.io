@@ -1,6 +1,6 @@
 ---
 title: 'Generating a Binary Mask'
-date: 2013-10-18T15:55:50+01:00
+date: 2013-10-19T15:55:50+01:00
 author: Arturo
 layout: post
 permalink: /generating-a-binary-mask/
