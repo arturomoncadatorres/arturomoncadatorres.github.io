@@ -54,9 +54,11 @@ Notice that since I am using Github Pages, I commented the line `gem "jekyll", "
 1. Navigate to the directory where your website files are located (e.g., `C:\Users\website\`)
 
 **Locally**
+
 2. Type `bundle exec jekyll serve`. This will launch a local server at `http://localhost:4000/`. Here, you will see the changes that you make to the website (locally).
 
 **Online**
+
 3. If you are happy with the changes, just push them to Github
 - `git add ...`
 - `git commit -m "Commit message"`
@@ -77,21 +79,23 @@ Notice that since I am using Github Pages, I commented the line `gem "jekyll", "
   - Got to `assets/partials/_syntax.scss` and replace the content with that of the chosen theme
   - Additionally, add the line `.highlight {background: #fff; border: 1px solid $grey-color-lightest; padding: 15px;}` at the beginning to keep the box
   - If you get the error
-   ```
-   SyntaxError: /Users/taylor/Projects/personal_website/_plugins/generate_categories.rb:50: else without rescue is useless ...L = ”” if (BASEURL == nil) else BASEURL end ... ^~
-   ```
-      Go to `_plugins/generate_categories.rb` and change the line
-  ```
-BASEURL = "" if (BASEURL == nil) else BASEURL end
-  ```
-  to
-  ```
-	if (BASEURL == nil)
-	  BASEURL = ""
-	else
-	  BASEURL = BASEURL
-	end
-  ```
+    ```
+    SyntaxError: /Users/taylor/Projects/personal_website/_plugins/generate_categories.rb:50: else without rescue is useless ...L = ”” if (BASEURL == nil) else BASEURL end ... ^~
+    ```
+
+    Go to `_plugins/generate_categories.rb` and change the line
+    ```
+    BASEURL = "" if (BASEURL == nil) else BASEURL end
+    ```
+
+    to
+    ```
+    if (BASEURL == nil)
+      BASEURL = ""
+    else
+      BASEURL = BASEURL
+    end
+    ```
 
 ## Additional resources
 - [Working with Github Pages](https://help.github.com/en/github/working-with-github-pages)
