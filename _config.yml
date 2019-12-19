@@ -65,6 +65,9 @@ baseurl: ""
 # Includes
 include: ["_pages"]
 
+# Excludes
+exclude: ["instructions.md"]
+
 # Outputting
 permalink: /:categories/:title.html
 category_dir: categories
@@ -81,4 +84,3 @@ excerpt_separator: <!--more-->
 sass:
   sass_dir: assets/partials
   style: compressed
-
