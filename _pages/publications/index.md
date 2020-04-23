@@ -27,7 +27,8 @@ order: 2
 [Back to top](#top)
 
 ### Peer-reviewed Conference Papers
-0. T. Jansen, G. Geleijnse, M. van Maaren, M. P. Hendriks, A. Ten Teije, **A. Moncada-Torres**, "Machine Learning Explainability in Breast Cancer Survival", *Digital Personalized Health - Proceedings of MIE2020*.
+0. T. Jansen, G. Geleijnse, M. van Maaren, M. P. Hendriks, A. Ten Teije, **A. Moncada-Torres**, "Machine Learning Explainability in Breast Cancer Survival", *Studies in Health Technology and Informatics - Proceedings of the 30th Medical Informatics Europe Conference*. In press.
+[[BibTeX](../../bibtex/jansen2020machine.txt){:target="_blank"}, [PDF (Pre-print)](../../pdfs/jansen2020machine_preprint.pdf){:target="_blank"}]
 {: reversed="reversed"}
 
 [Back to top](#top)
