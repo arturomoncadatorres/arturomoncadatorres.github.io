@@ -1,0 +1,7 @@
+@InProceedings{jansen2020machine,
+  author       = {Jansen, Tom and Geleijnse, Gijs and van Maaren, Marissa and Hendriks, Mathijs P. and Ten Teije, Annette and Moncada-Torres, Arturo},
+  booktitle    = {Studies in Health Technology and Informatics},
+  title        = {Machine Learning Explainability in Breast Cancer Survival},
+  booksubtitle = {Proceedings of the 30th Medical Informatics Europe Conference},
+  year         = {2020},
+}
