@@ -3,5 +3,7 @@
   booktitle    = {Studies in Health Technology and Informatics},
   title        = {Machine Learning Explainability in Breast Cancer Survival},
   booksubtitle = {Proceedings of the 30th Medical Informatics Europe Conference},
+  pages        = {307--311},
+  volume       = {270: Digital Personalized Health and Medicine},
   year         = {2020},
 }
