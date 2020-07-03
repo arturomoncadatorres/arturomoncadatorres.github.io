@@ -1,0 +1,7 @@
+@InProceedings{moncada-torres2020vantage6,
+  author    = {Moncada-Torres, Arturo and Martin, Frank and Sieswerda, Melle and van Soest, Johan and Geleijnse, Gijs},
+  booktitle = {AMIA Annual Symposium Proceedings},
+  date      = {2020},
+  title     = {VANTAGE6: an open source priVAcy preserviNg federaTed leArninG infrastructurE for Secure Insight eXchange},
+  year      = {2020},
+}
