@@ -4,4 +4,5 @@
   date      = {2020},
   title     = {VANTAGE6: an open source priVAcy preserviNg federaTed leArninG infrastructurE for Secure Insight eXchange},
   year      = {2020},
+  pages     = {870--877},
 }
