@@ -29,7 +29,7 @@ Please contact me if you are having trouble accessing any of the listed publicat
 
 ### Peer-reviewed Conference Papers
 0. **A. Moncada-Torres**, F. Martin, M. Sieswerda, J. van Soest, G. Geleijnse, "VANTAGE6: an open source priVAcy preserviNg federaTed leArninG infrastructurE for Secure Insight eXchange", *AMIA Annual Symposium Proceedings*, 2020, p. 870-877.
-[[BibTeX](../../bibtex/moncada-torres2020vantage6.txt){:target="_blank"}, [PDF (Pre-print)](../../pdfs/moncada-torres2020vantage6_preprint.pdf){:target="_blank"}, [PDF](https://vantage6.ai/vantage6/)]
+[[BibTeX](../../bibtex/moncada-torres2020vantage6.txt){:target="_blank"}, [PDF (Pre-print)](../../pdfs/moncada-torres2020vantage6_preprint.pdf){:target="_blank"}, [PDF](https://vantage6.ai/vantage6/){:target="_blank"}]
 0. T. Jansen, G. Geleijnse, M. van Maaren, M. P. Hendriks, A. Ten Teije, **A. Moncada-Torres**, "Machine Learning Explainability in Breast Cancer Survival", *Studies in Health Technology and Informatics - Proceedings of the 30th Medical Informatics Europe Conference*, vol. 270 (Digital Personalized Health and Medicine), 2020, p. 307-311.
 [[BibTeX](../../bibtex/jansen2020machine.txt){:target="_blank"}, [PDF (Open Access)](http://ebooks.iospress.nl/volumearticle/54174){:target="_blank"}]
 {: reversed="reversed"}
