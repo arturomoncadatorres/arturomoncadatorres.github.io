@@ -46,6 +46,8 @@ This is the only step that might be a little bit tricky. You need to configure W
 With these steps, you are ready to go to write your first LaTeX document. Create a new `.tex` file in WinEdt and write (i.e., copy/paste) the following:
 
 {% highlight latex linenos %}
+\documentclass{article} 
+
 \begin{document}
 
 \title{My First \LaTeX{} Document}
