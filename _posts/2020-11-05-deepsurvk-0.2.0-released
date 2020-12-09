@@ -1,0 +1,43 @@
+---
+title: DeepSurvK 0.2.0 Release
+date: 2020-11-05-01T01:19:22+01:00
+author: Arturo
+layout: post
+description: Release of DeepSurvK's 0.2.0 version
+permalink: deepsurvk-0.2.0-released/
+mood: speechless
+categories:
+  - DeepSurvK
+  - Python
+tags:
+  - deep learning
+  - deepsurvk
+  - pypi
+  - python
+  - survival
+---
+
+<figure class="alignleft">
+	<img width="32" src="../multimedia/icons/python.png"/>
+</figure>
+<figure class="alignleft">
+	<img width="32" src="../multimedia/icons/deepsurvk.png"/>
+</figure>
+
+Today, the version 0.2.0 of DeepSurvK is realeased!
+
+<!--more-->
+
+The new features and changes include:
+
+* Improved parameter definition (from function arguments to dictionary)
+* Added basic parameter optimization (grid search), including example notebook
+* Bug fixes
+
+For a full list of changes, see the [release notes](https://github.com/arturomoncadatorres/deepsurvk/blob/master/HISTORY).
+
+I hope to keep working and improving DeepSurvK. On the meantime, if you have suggestions for its improvement, [file a new issue in Github](https://github.com/arturomoncadatorres/deepsurvk/issues){: target="_blank"} [or drop me a line on Twitter (@amoncadatorres)](http://www.twitter.com/amoncadatorres){: target="_blank"}.
+
+-------------
+
+DeepSurvK was developed in [Spyder](https://www.spyder-ide.org/) (a fantastic open-source Python IDE) using [Cookiecutter](https://github.com/cookiecutter/cookiecutter) and the [`arturomoncadatorres/cookiecutter-pypackage` project template](https://github.com/arturomoncadatorres/cookiecutter-pypackage).
