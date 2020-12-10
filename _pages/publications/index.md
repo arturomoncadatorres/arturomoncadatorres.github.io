@@ -9,6 +9,7 @@ Please contact me if you are having trouble accessing any of the listed publicat
 
 ### Peer-reviewed Journal Papers
 
+0. F. J. Clouth, **A. Moncada-Torres**, G. Geleijnse, F. Mols, F. N. van Erning, I. H. J. T. de Hingh, S. C. Paus, L. V. van de Poll-Franse, J. K. Vermunt, "Heterogeneity in quality of life of long-term colon cancer survivors: a latent class analysis of the population-based PROFILES registry". *The Oncologist*, 2020, *in press*.  
 0. T. Van Hirtum, **A. Moncada-Torres**, P. Ghesquière, J. Wouters, "Envelope Enhancement Improves Speech Intelligibility in Adults With Dyslexia". *Ear and Hearing*, vol. 49, no. 5, 2019, p. 1242-1252.  
 [[BibTeX](../../bibtex/vanhirtum2019speech.txt){:target="_blank"}, [PDF](https://journals.lww.com/ear-hearing/Abstract/publishahead/Speech_Envelope_Enhancement_Instantaneously.98825.aspx){:target="_blank"}]
 0. S. Magits, **A. Moncada-Torres**, L. Van Deun, J. Wouters, A. van Wieringen, T. Francart, "The Effect of Presentation Level in Spectrotemporal Modulation Detection". *Hearing Research*, vol. 371, 2019, p. 11-18.  
