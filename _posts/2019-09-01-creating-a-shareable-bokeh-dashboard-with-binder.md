@@ -12,7 +12,7 @@ categories:
 tags:
   - binder
   - bokeh
-  - data visualization
+  - data-visualization
   - github
   - interactive
   - pokemon
