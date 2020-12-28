@@ -7,8 +7,8 @@ description: Small guide on how to add LDraw models (.dat files) to use as parts
 permalink: adding-ldraw-models-to-bricklink-studio/
 mood: speechless
 categories:
-  - LEGO
   - Bricklink Studio
+  - LEGO
 tags:
   - bricklink-studio
   - ldraw
