@@ -4,7 +4,7 @@ date: 2020-12-28-01T17:00:00+01:00
 author: Arturo
 layout: post
 description: Instructions for building the "Battle Droid on STAP" model from the Droid Developer Kit set (9748)
-permalink: instructions-for-battle-droid-on-stap/
+permalink: battle-droid-stap/
 mood: speechless
 categories:
   - Bricklink Studio
@@ -30,19 +30,19 @@ As a teenager (and even during my years at college), I had a blast playing with 
 
 <!--more-->
 
-<img src="../multimedia/images/9748_box.jpg" width="50%" align="center">
+<img src="../multimedia/images/9748_box.jpg" width="75%" align="center">
 
 The original kit had an instruction booklet that allowed you to build three different models: a trainer droid, R2D2 (of course), and a Jedi Knight Droid (basically a car). While it is hard to come up with a physical copy of the booklet, it isn't hard to find [digital versions](https://www.manualslib.com/manual/978351/Lego-Star-Wars-9748.html){: target="_blank"} [of it](https://www.touteslesbriques.org/images/instructions/9748-instruction-1-13652.pdf){: target="_blank"}.
 
 More interestingly, the kit also included a CD, which had instructions for additional (more complex) models, such as a crane, an opee sea creature, a Gungan submarine, and a [battle droid on STAP](https://starwars.fandom.com/wiki/Single_Trooper_Aerial_Platform){: target="_blank"}. I wanted to build the latter. Unfortunately, CD copies are hard to find and apparently impossible to run in modern Windows versions (plus who has a CD drive in their computers nowadays, anyway?).
 
-<img src="../multimedia/images/9748_cd.jpg" width="25%" align="center">
+<img src="../multimedia/images/9748_cd.jpg" width="50%" align="center">
 
 <sub><sup>Image from the [Internet Archive](https://archive.org/details/LEGOMindStormsDDK){: target="_blank"}</sup></sub>
 
 Thus, I took the project of back-engineering the construction of the model. To do so, I looked for pictures and video of it, which to my dismay weren't that many. Nevertheless, based on [a couple](https://www.youtube.com/watch?v=dk1Mgv8NKcU&){: target="_blank"} of [YouTube videos](https://www.youtube.com/watch?v=35EPBXa7NPU&ab_channel=jimlewis){: target="_blank"} and a few pictures on [old websites](http://www.wd5gnr.com/droid.htm){: target="_blank"}, I finally managed to recreate it. I'd say it looks quite on spot with the original.
 
-<img src="../multimedia/images/battle_droid_stap.png" width="50%" align="center">
+<img src="../multimedia/images/battle_droid_stap.png" width="100%" align="center">
 
 I thought it was a real pity that no instructions existed for this cool model. Thus, I wanted to generate them based on my experience, so other builders could also have the chance to play with it. After weighting several options, I decided to use [Bricklink Studio](https://www.bricklink.com/v3/studio/download.page). I was amazed by how easy it is to use, even if you don't have experience using CAD software. Besides allowing you to create virtual models, you can also generate their instructions practically in an identical style as an original LEGO booklet. See for yourself:
 
