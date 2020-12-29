@@ -44,7 +44,7 @@ Thus, I took the project of back-engineering the construction of the model. To d
 
 <img src="../multimedia/images/battle_droid_stap.png" width="100%" align="center">
 
-I thought it was a real pity that no instructions existed for this cool model. Thus, I wanted to generate them based on my experience, so other builders could also have the chance to play with it. After weighting several options, I decided to use [Bricklink Studio](https://www.bricklink.com/v3/studio/download.page). I was amazed by how easy it is to use, even if you don't have experience using CAD software. Besides allowing you to create virtual models, you can also generate their instructions practically in an identical style as an original LEGO booklet. See for yourself:
+I thought it was a real pity that no instructions existed for this cool model. Thus, I wanted to generate them based on my experience, so other builders could also have the chance to play with it. After weighting several options, I decided to use [Bricklink Studio](https://www.bricklink.com/v3/studio/download.page){: target="_blank"}. I was amazed by how easy it is to use, even if you don't have experience using CAD software. Besides allowing you to create virtual models, you can also generate their instructions practically in an identical style as an original LEGO booklet. See for yourself:
 
 * **You can get the [instructions here](../pdfs/lego/9748_battle_droid_stap.pdf)**
 
