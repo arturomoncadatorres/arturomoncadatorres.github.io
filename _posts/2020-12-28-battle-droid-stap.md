@@ -11,7 +11,6 @@ categories:
   - Droid Developer Kit
   - LEGO
 tags:
-  - 9748
   - bricklink-studio
   - ddk
   - droid-developer-kit
