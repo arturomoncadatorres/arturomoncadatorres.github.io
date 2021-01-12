@@ -27,9 +27,9 @@ tags:
 
 As a teenager (and even during my years at college), I had a blast playing with the LEGO Mindstorms sets. One of them ones was the [Droid Developer Kit (9748)](https://legostarwars.fandom.com/wiki/9748_Droid_Developer_Kit){: target="_blank"}. Basically, it allowed you to build Star Wars droids and put them in action using the included Micro Scout (which included a motor, a light sensor, and seven built-in programs). I still have my original kit and with the Star Wars fever caused by The Mandalorian (and [all the announced shows coming in the near future](https://www.ign.com/articles/disney-investor-day-2020-every-announcement-movies-tv-trailers-reveals-news){: target="_blank"}), I thought this Christmas break was the perfect occasion to jump back into this set.
 
-<!--more-->
-
 <img src="../multimedia/images/9748_box.jpg" width="75%" align="center">
+
+<!--more-->
 
 The original kit had an instruction booklet that allowed you to build three different models: a trainer droid, R2D2 (of course), and a Jedi Knight Droid (basically a car). While it is hard to come up with a physical copy of the booklet, it isn't hard to find [digital versions](https://www.manualslib.com/manual/978351/Lego-Star-Wars-9748.html){: target="_blank"} [of it](https://www.touteslesbriques.org/images/instructions/9748-instruction-1-13652.pdf){: target="_blank"}.
 
