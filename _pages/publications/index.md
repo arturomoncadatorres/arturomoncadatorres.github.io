@@ -9,7 +9,8 @@ Please contact me if you are having trouble accessing any of the listed publicat
 
 ### Peer-reviewed Journal Papers
 
-0. F. J. Clouth, **A. Moncada-Torres**, G. Geleijnse, F. Mols, F. N. van Erning, I. H. J. T. de Hingh, S. C. Pauws, L. V. van de Poll-Franse, J. K. Vermunt, "Heterogeneity in quality of life of long-term colon cancer survivors: a latent class analysis of the population-based PROFILES registry". *The Oncologist*, 2020, *in press*.  
+0. F. J. Clouth, **A. Moncada-Torres**, G. Geleijnse, F. Mols, F. N. van Erning, I. H. J. T. de Hingh, S. C. Pauws, L. V. van de Poll-Franse, J. K. Vermunt, "Heterogeneity in quality of life of long-term colon cancer survivors: a latent class analysis of the population-based PROFILES registry". *The Oncologist*, vol. 25, 2020, p. 1-8.<br>
+[[BibTeX](../../bibtex/clouth2020heterogeneity.txt){:target="_blank"}, [PDF (Open Access)](https://theoncologist.onlinelibrary.wiley.com/doi/10.1002/onco.13655){:target="_blank"}]
 0. T. Van Hirtum, **A. Moncada-Torres**, P. Ghesquière, J. Wouters, "Envelope Enhancement Improves Speech Intelligibility in Adults With Dyslexia". *Ear and Hearing*, vol. 49, no. 5, 2019, p. 1242-1252.  
 [[BibTeX](../../bibtex/vanhirtum2019speech.txt){:target="_blank"}, [PDF](https://journals.lww.com/ear-hearing/Abstract/publishahead/Speech_Envelope_Enhancement_Instantaneously.98825.aspx){:target="_blank"}]
 0. S. Magits, **A. Moncada-Torres**, L. Van Deun, J. Wouters, A. van Wieringen, T. Francart, "The Effect of Presentation Level in Spectrotemporal Modulation Detection". *Hearing Research*, vol. 371, 2019, p. 11-18.  
@@ -29,8 +30,8 @@ Please contact me if you are having trouble accessing any of the listed publicat
 [Back to top](#top)
 
 ### Peer-reviewed Conference Papers
-0. **A. Moncada-Torres**, F. Martin, M. Sieswerda, J. van Soest, G. Geleijnse, "VANTAGE6: an open source priVAcy preserviNg federaTed leArninG infrastructurE for Secure Insight eXchange", *AMIA Annual Symposium Proceedings*, 2020, p. 870-877.
-[[BibTeX](../../bibtex/moncada-torres2020vantage6.txt){:target="_blank"}, [PDF (Pre-print)](../../pdfs/moncada-torres2020vantage6_preprint.pdf){:target="_blank"}, [PDF](https://vantage6.ai/vantage6/){:target="_blank"}]
+0. **A. Moncada-Torres**, F. Martin, M. Sieswerda, J. van Soest, G. Geleijnse, "VANTAGE6: an open source priVAcy preserviNg federaTed leArninG infrastructurE for Secure Insight eXchange", *AMIA Annual Symposium Proceedings*, 2020, p. 870-877.<br>
+[[BibTeX](../../bibtex/moncada-torres2020vantage6.txt){:target="_blank"}, [PDF](https://vantage6.ai/vantage6/){:target="_blank"}]
 0. T. Jansen, G. Geleijnse, M. van Maaren, M. P. Hendriks, A. Ten Teije, **A. Moncada-Torres**, "Machine Learning Explainability in Breast Cancer Survival", *Studies in Health Technology and Informatics - Proceedings of the 30th Medical Informatics Europe Conference*, vol. 270 (Digital Personalized Health and Medicine), 2020, p. 307-311.
 [[BibTeX](../../bibtex/jansen2020machine.txt){:target="_blank"}, [PDF (Open Access)](http://ebooks.iospress.nl/volumearticle/54174){:target="_blank"}]
 {: reversed="reversed"}

@@ -1,0 +1,10 @@
+@Article{clouth2020heterogeneity,
+  author    = {Clouth, Felix J. and Moncada-Torres, Arturo and Geleijnse, Gijs and Mols, Floortje and van Erning, Felice N. and de Hingh, Ignace H. J. T. and Pauws, Steffen C. and van de Poll-Franse, Lonneke V. and Vermunt, Jeroen K.},
+  title     = {Heterogeneity in Quality of Life of Long-Term Colon Cancer Survivors: A Latent Class Analysis of the Population-Based PROFILES Registry},
+  journal   = {The Oncologist},
+  year      = {2020},
+  volume    = {25},
+  pages     = {1--8},
+  publisher = {Wiley Periodicals LLC}
+}
+
