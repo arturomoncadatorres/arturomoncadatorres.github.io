@@ -27,7 +27,9 @@ tags:
 
 As a teenager (and even during my years at college), I had a blast playing with the LEGO Mindstorms sets. One of them ones was the [Droid Developer Kit (9748)](https://legostarwars.fandom.com/wiki/9748_Droid_Developer_Kit){: target="_blank"}. Basically, it allowed you to build Star Wars droids and put them in action using the included Micro Scout (which included a motor, a light sensor, and seven built-in programs). I still have my original kit and with the Star Wars fever caused by The Mandalorian (and [all the announced shows coming in the near future](https://www.ign.com/articles/disney-investor-day-2020-every-announcement-movies-tv-trailers-reveals-news){: target="_blank"}), I thought this Christmas break was the perfect occasion to jump back into this set.
 
-<img src="../multimedia/images/9748_box.jpg" width="75%" align="center">
+<p align="center">
+  <img width="66%" src="../multimedia/images/9748_box.jpg">
+</p>
 
 <!--more-->
 
@@ -35,13 +37,16 @@ The original kit had an instruction booklet that allowed you to build three diff
 
 More interestingly, the kit also included a CD, which had instructions for additional (more complex) models, such as a crane, an opee sea creature, a Gungan submarine, and a [battle droid on STAP](https://starwars.fandom.com/wiki/Single_Trooper_Aerial_Platform){: target="_blank"}. I wanted to build the latter. Unfortunately, CD copies are hard to find and apparently impossible to run in modern Windows versions (plus who has a CD drive in their computers nowadays, anyway?).
 
-<img src="../multimedia/images/9748_cd.jpg" width="50%" align="center">
-
-<sub><sup>Image from the [Internet Archive](https://archive.org/details/LEGOMindStormsDDK){: target="_blank"}</sup></sub>
+<p align="center">
+  <img width="50%" src="../multimedia/images/9748_cd.jpg"><br>
+  <sub><sup>Image from the [Internet Archive](https://archive.org/details/LEGOMindStormsDDK){: target="_blank"}</sup></sub>
+</p>
 
 Thus, I took the project of back-engineering the construction of the model. To do so, I looked for pictures and video of it, which to my dismay weren't that many. Nevertheless, based on [a couple](https://www.youtube.com/watch?v=dk1Mgv8NKcU&){: target="_blank"} of [YouTube videos](https://www.youtube.com/watch?v=35EPBXa7NPU&ab_channel=jimlewis){: target="_blank"} and a few pictures on [old websites](http://www.wd5gnr.com/droid.htm){: target="_blank"}, I finally managed to recreate it. I'd say it looks quite on spot with the original.
 
-<img src="../multimedia/images/battle_droid_stap.png" width="100%" align="center">
+<p align="center">
+  <img width="90%" src="../multimedia/images/battle_droid_stap.png">
+</p>
 
 I thought it was a real pity that no instructions existed for this cool model. Thus, I wanted to generate them based on my experience, so other builders could also have the chance to play with it. After weighting several options, I decided to use [Bricklink Studio](https://www.bricklink.com/v3/studio/download.page){: target="_blank"}. I was amazed by how easy it is to use, even if you don't have experience using CAD software. Besides allowing you to create virtual models, you can also generate their instructions practically in an identical style as an original LEGO booklet. See for yourself:
 
@@ -51,4 +56,18 @@ Moreover, you can also produce renders of your creations, which look astonishing
 
 I estimate that the whole thing (i.e., building the original model, generating the instructions, and producing the renders) probably took me around 45 h. I had tons of fun working on this project and I hope that I can use this model as a base for future creations!
 
-If you have any questions or feedback, leave them in the comments below [or drop me a line on Twitter (@amoncadatorres)](http://www.twitter.com/amoncadatorres){: target="_blank"}. If you do build this model, I'd love to see some pictures of it!
+## Gallery
+If you build this model, please share some pictures! I'd love to add them here.
+
+<p align="center">
+  <table><tr>
+  <td> <img src="../multimedia/images/battle_droid_stap_maxpayneonpoli1.jpg" alt="" style="width: 100%;"/> </td>
+  </tr>
+  <tr>
+  <td> By <a href="https://twitter.com/maxpayneonpoli1/status/1347636199586934784?s=20">@maxpayneonpoli1</a> </td>
+  </tr>
+  </table>
+</p>
+
+----------
+If you have any questions or feedback, leave them in the comments below [or drop me a line on Twitter (@amoncadatorres)](http://www.twitter.com/amoncadatorres){: target="_blank"}.
