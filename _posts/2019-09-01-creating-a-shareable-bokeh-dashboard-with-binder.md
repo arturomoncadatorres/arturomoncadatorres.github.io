@@ -3,7 +3,7 @@ title: Creating a Shareable Bokeh Dashboard with Binder
 date: 2019-09-01T17:53:30+01:00
 author: Arturo
 layout: post
-description: How to create a shareable (Github-hosted) Bokeh dashboard
+description: How to create a shareable (GitHub-hosted) Bokeh dashboard
 permalink: /creating-a-shareable-bokeh-dashboard-with-binder/
 mood: speechless
 categories:
@@ -32,10 +32,10 @@ Recently, I finished a personal project in which [I analyzed the results of the 
 
 However, I wanted to be able to share the Bokeh app with the general public, preferably through a single URL, due to easiness. This is where things started to get a bit tricky. [Bokeh's documentation states a few options](https://bokeh.pydata.org/en/latest/docs/user_guide/server.html){: target=_"blank"} to do so, but they aren't very straightforward, since they require setting up a hosting system on a server. After some googling, I came across [a post by Jacob Deppen](https://deppen8.github.io/posts/2018/09/shareable-dashboard/){: target="_blank"}, where he described my exact same situation. He suggested doing so using Binder.
 
-[Binder](https://mybinder.org/){: target="_blank"} is an (open source) web service that takes a Github repository and creates a shareable, interactive, reproducible environment in the cloud. This is a perfect solution for what I wanted to achieve. It even has a small tutorial that explains [how to deploy a Bokeh app](https://github.com/binder-examples/bokeh){: target="_blank"}. Unfortunately, I had a few issues to get everything up and running. After more days than I care to admit working on this (and with the help of some great people), I got it working. Therefore, in this post I want to give a more detailed tutorial on how to do so.
+[Binder](https://mybinder.org/){: target="_blank"} is an (open source) web service that takes a GitHub repository and creates a shareable, interactive, reproducible environment in the cloud. This is a perfect solution for what I wanted to achieve. It even has a small tutorial that explains [how to deploy a Bokeh app](https://github.com/binder-examples/bokeh){: target="_blank"}. Unfortunately, I had a few issues to get everything up and running. After more days than I care to admit working on this, I got it working. Therefore, in this post I want to give a more detailed tutorial on how to do so.
 
 ## 1. Create a (new) repository with the proper structure
-First, to make things easier for us, we need to create a new (Github) repository that will be exclusively dedicated to the interactive visualization. It needs to have the following structure:
+First, to make things easier for us, we need to create a new (GitHub) repository that will be exclusively dedicated to the interactive visualization. It needs to have the following structure:
 
 {%highlight text %}
 README.md (optional)
@@ -60,7 +60,7 @@ The files in the `bokeh-app` directory are the files required for your app to ru
 This file will contain the code of your Bokeh app.
 * Furthermore, here you can have additional files, different directories where your data are located, where your outputs are saved, etc.
 
-The files in the `binder` directory are needed to deploy your app in Binder.
+The files in the `.binder` directory are needed to deploy your app in Binder.
 
 * `bokehserverextension.py`
 This file should have the following content:
@@ -99,7 +99,7 @@ mv .binder/bokehserverextension.py ${NB_PYTHON_PREFIX}/lib/python*/site-packages
 jupyter serverextension enable --sys-prefix bokehserverextension
 {% endhighlight %}
 
-## 3. Commit and push your repository to Github
+## 3. Commit and push your repository to GitHub
 Pretty straightforward.
 
 ## 4. Launch Binder
@@ -109,7 +109,7 @@ Lastly, you will actually launch Binder. It is very simple, but you need to be c
 	<img width="600" src="../multimedia/images/binder_panel.png"/>
 </figure>
 
-In **A**, paste the link to your repository. I prefer working with Github, but you can also use other types of repositories (e.g., GitLab). If you do, _make sure you change it in the corresponding drop-down menu_.
+In **A**, paste the link to your repository. I prefer working with GitHub, but you can also use other types of repositories (e.g., GitLab). If you do, _make sure you change it in the corresponding drop-down menu_.
 
 In **B**, paste the ID of a specific branch, tag, or commit that you wish. This is optional. If you aren't doing anything fancy and want to generate a link for the master branch of your latest commit, you can leave it empty
 
@@ -121,10 +121,10 @@ The first time you run it, it will take long, since Binder will create the image
 * When building your Binder, be sure to show the console. You could see potentially useful information about errors there.
 * If you make a change in your app, you will need to push it to your repository and do step 4 again.
 * Be careful of your dependencies! You might need to define more dependencies than you think. Debugging your environment might be useful (more on that below)
-* Watch out for your paths! If you are using paths for certain files (e.g., read data files), make sure to define them relative to where `main.py` is (credit to [`@jdkent`](https://github.com/jdkent){: target="_blank"}).
-* Debugging. This one can be a real life-saver. To debug your app, create a Python environment from the `environment.yml` file. Then, run `bokeh serve bokeh-app` _at the top level_ of your repository (and not within the `bokeh-app` directory), since that is where Binder is running Bokeh. Then, look at the errors that pop in the terminal (credit to [`@jdkent`](https://github.com/jdkent){: target="_blank"}).
+* Watch out for your paths! If you are using paths for certain files (e.g., read data files), make sure to define them relative to where `main.py` is.
+* Debugging. This one can be a real life-saver. To debug your app, create a Python environment from the `environment.yml` file. Then, run `bokeh serve bokeh-app` _at the top level_ of your repository (and not within the `bokeh-app` directory), since that is where Binder is running Bokeh. Then, look at the errors that pop in the terminal.
 
 ## Closing remarks
 Big shout out to [`@betatim`](https://github.com/betatim){: target="_blank"} for helping me start with the deployment of my app in Binder. Huge shout out to [`@jdkent`](https://github.com/jdkent){: target="_blank"} for taking time of his busy graduate student life to help me debug my app.
 
-You can actually see my [Bokeh app in action here](https://mybinder.org/v2/gh/arturomoncadatorres/favorite-pokemon-interactive/16eebda4779dd6dc52fcdc4c2181b291fbb5a270?urlpath=%2Fproxy%2F5006%2Fbokeh-app){: target="_blank"} (be patient, it can take a while to load). Furthermore, you can also take a look at its [corresponding Github repository here](https://github.com/arturomoncadatorres/favorite-pokemon-interactive){: target="_blank"}.
+You can actually see my [Bokeh app in action here](https://mybinder.org/v2/gh/arturomoncadatorres/favorite-pokemon-interactive/16eebda4779dd6dc52fcdc4c2181b291fbb5a270?urlpath=%2Fproxy%2F5006%2Fbokeh-app){: target="_blank"} (be patient, it can take a while to load). Furthermore, you can also take a look at its [corresponding GitHub repository here](https://github.com/arturomoncadatorres/favorite-pokemon-interactive){: target="_blank"}.
