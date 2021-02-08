@@ -51,3 +51,6 @@ Furthermore, written and online platforms wrote a few pieces about the project:
 * [Comunidad Ibero](../pdfs/ni2009_uia.pdf){: target="_blank"} (Universidad Iberoamericana's publication)
 * [Barrio](../pdfs/ni2009_barrio.pdf){: target="_blank"} (magazine)
 * [Cronica](../pdfs/ni2009_cronica.pdf){: target="_blank"} (newspaper)
+
+----------
+If you have any comments, questions or feedback, leave them in the comments below [or drop me a line on Twitter (@amoncadatorres)](http://www.twitter.com/amoncadatorres){: target="_blank"}. Moreover, if you found this useful, fun, or just want to show your appreciation, you can always [buy me a cookie](https://www.buymeacoffee.com/amoncadatorres){: target="_blank"}. Cheers!

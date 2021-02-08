@@ -24,4 +24,7 @@ When working with images, selecting a specific region of an image to work with i
 
 <!--more-->
 
-You can find the scripts in my [Github repository](https://github.com/arturomoncadatorres/generating-binary-mask){: target="_blank"}, which includes the classic image of Lena to use it in the demo. I suggest play with it in order to understand how it works. The scripts include plenty of comments in which I tried to explain each of the steps as clear as possible. If you still have questions about the implementation or, even better, suggestions for its improvement, please leave a comment here or [file a new issue in Github](https://github.com/arturomoncadatorres/generating-binary-mask/issues){: target="_blank"}.
+You can find the scripts in my [GitHub repository](https://github.com/arturomoncadatorres/generating-binary-mask){: target="_blank"}, which includes the classic image of Lena to use it in the demo. I suggest play with it in order to understand how it works. The scripts include plenty of comments in which I tried to explain each of the steps as clear as possible.
+
+----------
+If you have any questions, comments, or feedback, please [open a discussion](https://github.com/arturomoncadatorres/generating-binary-mask/discussions){: target="_blank"}. If there is a problem with the code (e.g., mistake), please [open an issue](https://github.com/arturomoncadatorres/generating-binary-mask/issues){: target="_blank"}. You can always drop me a line on Twitter [(@amoncadatorres)](https://twitter.com/amoncadatorres){: target="_blank"}. Lastly, if you found this useful, fun, or just want to show your appreciation, you can always [buy me a cookie](https://www.buymeacoffee.com/amoncadatorres){: target="_blank"}. Cheers!

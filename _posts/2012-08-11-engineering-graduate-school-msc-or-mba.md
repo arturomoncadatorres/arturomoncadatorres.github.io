@@ -48,4 +48,5 @@ I think that the trick here is to find the point that matches your expectations,
 
 Finally, remember that one degree doesn't exclude the other. The fact that you choose an MSc today doesn't mean that in the future you are not allowed to study an MBA (and viceversa). Who knows, you might even end up having more than one master's degrees 😉 .
 
-What do you think? Have you taken or are you about to take this decision? What are the most important factors for choosing and MSc or an MBA for you? Feel free to drop your comments below.
+----------
+If you have any comments, questions or feedback, leave them in the comments below [or drop me a line on Twitter (@amoncadatorres)](http://www.twitter.com/amoncadatorres){: target="_blank"}. Moreover, if you found this useful, fun, or just want to show your appreciation, you can always [buy me a cookie](https://www.buymeacoffee.com/amoncadatorres){: target="_blank"}. Cheers!

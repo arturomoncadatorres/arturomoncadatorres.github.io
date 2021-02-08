@@ -92,4 +92,7 @@ You will be changing your DNS to Google Public DNS. To do so:
   6. Restart your system.
 
 
-I hope at least one of these works for you. Do you have any other solution you might want to share? Drop it in the comments below.
+I hope at least one of these works for you.
+
+----------
+If you have any comments, questions or feedback, leave them in the comments below [or drop me a line on Twitter (@amoncadatorres)](http://www.twitter.com/amoncadatorres){: target="_blank"}. Moreover, if you found this useful, fun, or just want to show your appreciation, you can always [buy me a cookie](https://www.buymeacoffee.com/amoncadatorres){: target="_blank"}. Cheers!

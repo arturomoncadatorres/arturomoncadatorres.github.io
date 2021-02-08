@@ -40,3 +40,6 @@ As a bonus, I had the chance to live in one of Mexico's most beautiful states. I
 </figure>
 
 All in all, my social service turned out to be an unforgettable experience at so many levels. It went beyond my expectations *by far*. Looking back, I realize how much it helped me grow not only as a professional but, most importantly, as a person. I am really grateful to all the people that made it possible.
+
+----------
+If you have any comments, questions or feedback, leave them in the comments below [or drop me a line on Twitter (@amoncadatorres)](http://www.twitter.com/amoncadatorres){: target="_blank"}. Moreover, if you found this useful, fun, or just want to show your appreciation, you can always [buy me a cookie](https://www.buymeacoffee.com/amoncadatorres){: target="_blank"}. Cheers!

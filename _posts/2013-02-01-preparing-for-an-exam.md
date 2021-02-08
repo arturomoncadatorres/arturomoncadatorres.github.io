@@ -53,4 +53,5 @@ This experience motivated me to bring my thoughts together into this post on how
 
 * **Make sure you understand what you are being asked**. It is perfectly acceptable not to understand a question on a first try. However, in an oral exam you won't be able to read the question as many times as you need to understand it. However, you do get the chance to ask the examiner to reformulate his/her question in a different way. This is a very valuable, and often overlooked, resource. Just don't try to overuse it.
 
-What do you think? How do you prepare for your exams? Do you have any more additional tips that would like to share? Feel free to drop your ideas and thoughts in the comments section below.
+----------
+If you have any comments, questions or feedback, leave them in the comments below [or drop me a line on Twitter (@amoncadatorres)](http://www.twitter.com/amoncadatorres){: target="_blank"}. Moreover, if you found this useful, fun, or just want to show your appreciation, you can always [buy me a cookie](https://www.buymeacoffee.com/amoncadatorres){: target="_blank"}. Cheers!

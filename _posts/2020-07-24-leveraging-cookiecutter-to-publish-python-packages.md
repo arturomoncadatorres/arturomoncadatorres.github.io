@@ -49,4 +49,5 @@ However, I felt it was lacking a couple of things that I would like for a Data S
 
 You can [**find my Cookiecutter template for a Python (Data Science) package here**](https://github.com/arturomoncadatorres/cookiecutter-pypackage/){: target="_blank"}. In the same repository, you will find both a Quickstart and a Tutorial to get you up and running in no time.
 
-I hope to keep on working and improving this Cookiecutter. On the meantime, if you have suggestions for its improvement, [file a new issue in Github](https://github.com/arturomoncadatorres/cookiecutter-pypackage/issues){: target="_blank"} [or drop me a line on Twitter (@amoncadatorres)](http://www.twitter.com/amoncadatorres){: target="_blank"}.
+----------
+If you have any questions, comments, or feedback, please [open a discussion](https://github.com/arturomoncadatorres/ookiecutter-pypackage/discussions). If there is a problem with the code (e.g., mistake), please [open an issue](https://github.com/arturomoncadatorres/ookiecutter-pypackage/issues). You can always drop me a line on Twitter [(@amoncadatorres)](https://twitter.com/amoncadatorres). Lastly, if you found this useful, fun, or just want to show your appreciation, you can always [buy me a cookie](https://www.buymeacoffee.com/amoncadatorres){: target="_blank"}. Cheers!

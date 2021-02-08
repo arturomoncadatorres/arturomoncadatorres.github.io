@@ -30,3 +30,6 @@ Apparently this is a frequently encountered problem. After a couple of hours spe
 Remember to update your LaTeX file (i.e., change the bibliography style to `\bibliographystyle{jphysicsB_withTitles}`, assuming you place the `.bst` file in the same directory where your LaTeX file is).
 
 Please note that the file is provided as it is. Use it under your own responsibility. Full credit goes to Michael Shell for his solution. I am only making his answer easier to find and share!
+
+----------
+If you have any comments, questions or feedback, leave them in the comments below [or drop me a line on Twitter (@amoncadatorres)](http://www.twitter.com/amoncadatorres){: target="_blank"}. Moreover, if you found this useful, fun, or just want to show your appreciation, you can always [buy me a cookie](https://www.buymeacoffee.com/amoncadatorres){: target="_blank"}. Cheers!

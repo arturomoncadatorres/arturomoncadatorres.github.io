@@ -28,3 +28,6 @@ In order to test this, reddit user `mamamia1001` created a survey to record Pok&
 * **Find the [complete Github repository here](https://github.com/arturomoncadatorres/favorite-pokemon){: target="_blank"}**
 * **Find the [visualizations here](https://nbviewer.jupyter.org/github/arturomoncadatorres/favorite-pokemon/blob/master/scripts/favorite_pokemon_nocode.ipynb){: target="_blank"}**
 * **Find the [visualizations (with code) here](https://nbviewer.jupyter.org/github/arturomoncadatorres/favorite-pokemon/blob/master/scripts/favorite_pokemon.ipynb){: target="_blank"}**
+
+----------
+If you have any comments, questions or feedback, leave them in the comments below [or drop me a line on Twitter (@amoncadatorres)](http://www.twitter.com/amoncadatorres){: target="_blank"}. Moreover, if you found this useful, fun, or just want to show your appreciation, you can always [buy me a cookie](https://www.buymeacoffee.com/amoncadatorres){: target="_blank"}. Cheers!

@@ -46,7 +46,7 @@ This is the only step that might be a little bit tricky. You need to configure W
 With these steps, you are ready to go to write your first LaTeX document. Create a new `.tex` file in WinEdt and write (i.e., copy/paste) the following:
 
 {% highlight latex linenos %}
-\documentclass{article} 
+\documentclass{article}
 
 \begin{document}
 
@@ -67,4 +67,7 @@ This is my first \LaTeX{} document. Isn't it exciting?
 
 Afterwards, hit `F9` in your keyboard. This will produce a bunch of files in the same directory where your original .tex file is located. Don't pay too much attention to these. For now, it is just good to know that among those files, you will find the PDF version of your document. Additionally, it will be displayed on your screen.
 
-That's it. It wasn't so hard, right? I recommend you take a look at ["The Not So Short Introduction to LaTeX"](http://tobi.oetiker.ch/lshort/lshort.pdf){: target="_blank"}, by Tobias Oetiker. It is a true jewel. If you have any additional thoughts, suggestions, or questions, please write them on the comments below.
+That's it. It wasn't so hard, right? I recommend you take a look at ["The Not So Short Introduction to LaTeX"](http://tobi.oetiker.ch/lshort/lshort.pdf){: target="_blank"}, by Tobias Oetiker. It is a true jewel.
+
+----------
+If you have any comments, questions or feedback, leave them in the comments below [or drop me a line on Twitter (@amoncadatorres)](http://www.twitter.com/amoncadatorres){: target="_blank"}. Moreover, if you found this useful, fun, or just want to show your appreciation, you can always [buy me a cookie](https://www.buymeacoffee.com/amoncadatorres){: target="_blank"}. Cheers!

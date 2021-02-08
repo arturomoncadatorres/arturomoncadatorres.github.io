@@ -9,7 +9,7 @@ categories:
   - Python
   - Data Visualization
   - Nintendo
-tags: 
+tags:
   - bokeh
   - pokemon
   - binder
@@ -29,7 +29,10 @@ Previously, I looked into [Pok&eacute;mon's popularity from all 7 generations](h
 <!--more-->
 
 * **Find the [complete Github repository here](https://github.com/arturomoncadatorres/favorite-pokemon-interactive){: target="_blank"}**
-* **Find the [interactive visualization here](https://mybinder.org/v2/gh/arturomoncadatorres/favorite-pokemon-interactive/16eebda4779dd6dc52fcdc4c2181b291fbb5a270?urlpath=%2Fproxy%2F5006%2Fbokeh-app)** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arturomoncadatorres/favorite-pokemon-interactive/16eebda4779dd6dc52fcdc4c2181b291fbb5a270?urlpath=%2Fproxy%2F5006%2Fbokeh-app)
+* **Find the [interactive visualization here](https://mybinder.org/v2/gh/arturomoncadatorres/favorite-pokemon-interactive/16eebda4779dd6dc52fcdc4c2181b291fbb5a270?urlpath=%2Fproxy%2F5006%2Fbokeh-app){: target="_blank"}** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arturomoncadatorres/favorite-pokemon-interactive/16eebda4779dd6dc52fcdc4c2181b291fbb5a270?urlpath=%2Fproxy%2F5006%2Fbokeh-app)
  (be patient, it can take a while to load; works best on desktop).
 
 A big shout out to [@bryevdv](https://github.com/bryevdv) for helping me with a [few issues I had with Bokeh legends](https://discourse.bokeh.org/t/cant-order-legend-entries-in-hbar-plot/3816) and to [@betatim](https://github.com/betatim) and [@jdkent](https://github.com/jdkent) for [helping me deploying the Bokeh app in Binder](https://discourse.jupyter.org/t/creating-a-shareable-bokeh-dashboard-with-binder/1962). The latter isn't so trivial. Thus I wrote a small post with the required steps to do so, which [you can find here](http://www.arturomoncadatorres.com/creating-a-shareable-bokeh-dashboard-with-binder/).
+
+----------
+If you have any questions, comments, or feedback, please [open a discussion](https://github.com/arturomoncadatorres/favorite-pokemon-interactive/discussions){: target="_blank"}. If there is a problem with the code (e.g., mistake), please [open an issue](https://github.com/arturomoncadatorres/favorite-pokemon-interactive/issues){: target="_blank"}. You can always drop me a line on Twitter [(@amoncadatorres)](https://twitter.com/amoncadatorres){: target="_blank"}. Lastly, if you found this useful, fun, or just want to show your appreciation, you can always [buy me a cookie](https://www.buymeacoffee.com/amoncadatorres){: target="_blank"}. Cheers!

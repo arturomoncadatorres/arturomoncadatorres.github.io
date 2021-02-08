@@ -128,3 +128,6 @@ The first time you run it, it will take long, since Binder will create the image
 Big shout out to [`@betatim`](https://github.com/betatim){: target="_blank"} for helping me start with the deployment of my app in Binder. Huge shout out to [`@jdkent`](https://github.com/jdkent){: target="_blank"} for taking time of his busy graduate student life to help me debug my app.
 
 You can actually see my [Bokeh app in action here](https://mybinder.org/v2/gh/arturomoncadatorres/favorite-pokemon-interactive/16eebda4779dd6dc52fcdc4c2181b291fbb5a270?urlpath=%2Fproxy%2F5006%2Fbokeh-app){: target="_blank"} (be patient, it can take a while to load). Furthermore, you can also take a look at its [corresponding GitHub repository here](https://github.com/arturomoncadatorres/favorite-pokemon-interactive){: target="_blank"}.
+
+----------
+If you have any comments, questions or feedback, leave them in the comments below [or drop me a line on Twitter (@amoncadatorres)](http://www.twitter.com/amoncadatorres){: target="_blank"}. Moreover, if you found this useful, fun, or just want to show your appreciation, you can always [buy me a cookie](https://www.buymeacoffee.com/amoncadatorres){: target="_blank"}. Cheers!

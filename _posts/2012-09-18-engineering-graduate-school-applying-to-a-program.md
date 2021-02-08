@@ -44,4 +44,5 @@ Perfect, so now you have chosen what to study and where to study it. What's next
 
 I tried to write these tips in the most generic way I could. However, please keep in mind that _the application and admission process might change a lot between universities and even between programs in the same university_. Just try to take the best of them 😉 .
 
-What do you think? Did this small piece of advice work for you? Do you have any more additional tips that would like to share? Feel free to drop your ideas and thoughts in the comments section below.
+----------
+If you have any comments, questions or feedback, leave them in the comments below [or drop me a line on Twitter (@amoncadatorres)](http://www.twitter.com/amoncadatorres){: target="_blank"}. Moreover, if you found this useful, fun, or just want to show your appreciation, you can always [buy me a cookie](https://www.buymeacoffee.com/amoncadatorres){: target="_blank"}. Cheers!

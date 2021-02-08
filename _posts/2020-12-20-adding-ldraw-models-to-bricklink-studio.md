@@ -70,6 +70,7 @@ Lastly, save your changes. If you had Studio open, close it and open it again so
 
 I read in a few (old) posts that modifying `StudioPartDefinition2.txt` can make Studio's Patcher to act weird. However, so far I haven't had any issues. Moreover, I am not sure if when a new update of Studio is released (which usually comes with new parts), `StudioPartDefinition2.txt` appends the new data or if it is completely overwritten. What I am trying to say is... please use this method at your own risk ;) .
 
--------
+That's it! Hopefully this will save you many hours of googling.
 
-That's it! Hopefully this will save you many hours of googling. If you have any questions or feedback, leave them in the comments below [or drop me a line on Twitter (@amoncadatorres)](http://www.twitter.com/amoncadatorres){: target="_blank"}.
+----------
+If you have any comments, questions or feedback, leave them in the comments below [or drop me a line on Twitter (@amoncadatorres)](http://www.twitter.com/amoncadatorres){: target="_blank"}. Moreover, if you found this useful, fun, or just want to show your appreciation, you can always [buy me a cookie](https://www.buymeacoffee.com/amoncadatorres){: target="_blank"}. Cheers!

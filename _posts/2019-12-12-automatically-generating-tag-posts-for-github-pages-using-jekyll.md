@@ -54,4 +54,7 @@ tags:
 ---
 {%endhighlight%}
 
-You can find all the files of my website in my [GitHub repository](https://github.com/arturomoncadatorres/arturomoncadatorres.github.io){: target="_blank"}. If you still have questions about the implementation or, even better, suggestions for its improvement, please leave a comment here or [file a new issue in GitHub](https://github.com/arturomoncadatorres/arturomoncadatorres.github.io/issues){: target="_blank"}.
+You can find all the files of my website in my [GitHub repository](https://github.com/arturomoncadatorres/arturomoncadatorres.github.io){: target="_blank"}.
+
+----------
+If you have any comments, questions or feedback, leave them in the comments below [or drop me a line on Twitter (@amoncadatorres)](http://www.twitter.com/amoncadatorres){: target="_blank"}. Moreover, if you found this useful, fun, or just want to show your appreciation, you can always [buy me a cookie](https://www.buymeacoffee.com/amoncadatorres){: target="_blank"}. Cheers!
