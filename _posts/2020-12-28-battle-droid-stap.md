@@ -48,14 +48,16 @@ Thus, I took the project of back-engineering the construction of the model. To d
   <img width="90%" src="../multimedia/images/battle_droid_stap.png">
 </p>
 
-I thought it was a real pity that no instructions existed for this cool model. Thus, I wanted to generate them based on my experience, so other builders could also have the chance to play with it. After weighting several options, I decided to use [Bricklink Studio](https://www.bricklink.com/v3/studio/download.page){: target="_blank"}. I was amazed by how easy it is to use, even if you don't have experience using CAD software. Besides allowing you to create virtual models, you can also generate their instructions practically in an identical style as an original LEGO booklet. See for yourself: <br>
+I thought it was a real pity that no instructions existed for this cool model. Thus, I wanted to generate them based on my experience, so other builders could also have the chance to play with it. After weighting several options, I decided to use [Bricklink Studio](https://www.bricklink.com/v3/studio/download.page){: target="_blank"}. I was amazed by how easy it is to use, even if you don't have experience using CAD software. Besides allowing you to create virtual models, you can also generate their instructions practically in an identical style as an original LEGO booklet. See for yourself:
+<br>
 
 <p align="center">
-  <a href="../pdfs/lego/9748_battle_droid_stap.pdf">
-  <img height="50" src="../multimedia/elements/download_instructions.png">
+  <a href="../pdfs/lego/9748_battle_droid_stap.pdf" target="_blank" style="text-decoration: none">
+  <img height="40" src="../multimedia/elements/download_instructions.png">
   </a>
 </p>
 
+<br>
 Moreover, you can also produce renders of your creations, which look astonishing (the image above is actually a render - I would never be able to take such a photograph).
 
 I estimate that the whole thing (i.e., building the original model, generating the instructions, and producing the renders) probably took me around 45 h. I had tons of fun working on this project and I hope that I can use this model as a base for future creations!
