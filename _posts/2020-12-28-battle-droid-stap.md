@@ -39,7 +39,7 @@ More interestingly, the kit also included a CD, which had instructions for addit
 
 <p align="center">
   <img width="50%" src="../multimedia/images/9748_cd.jpg"><br>
-  <sub><sup>Image from the [Internet Archive](https://archive.org/details/LEGOMindStormsDDK){: target="_blank"}</sup></sub>
+  <sub><sup>Image from the Internet Archive</sup></sub>
 </p>
 
 Thus, I took the project of back-engineering the construction of the model. To do so, I looked for pictures and video of it, which to my dismay weren't that many. Nevertheless, based on [a couple](https://www.youtube.com/watch?v=dk1Mgv8NKcU&){: target="_blank"} of [YouTube videos](https://www.youtube.com/watch?v=35EPBXa7NPU&ab_channel=jimlewis){: target="_blank"} and a few pictures on [old websites](http://www.wd5gnr.com/droid.htm){: target="_blank"}, I finally managed to recreate it. I'd say it looks quite on spot with the original.
@@ -48,9 +48,13 @@ Thus, I took the project of back-engineering the construction of the model. To d
   <img width="90%" src="../multimedia/images/battle_droid_stap.png">
 </p>
 
-I thought it was a real pity that no instructions existed for this cool model. Thus, I wanted to generate them based on my experience, so other builders could also have the chance to play with it. After weighting several options, I decided to use [Bricklink Studio](https://www.bricklink.com/v3/studio/download.page){: target="_blank"}. I was amazed by how easy it is to use, even if you don't have experience using CAD software. Besides allowing you to create virtual models, you can also generate their instructions practically in an identical style as an original LEGO booklet. See for yourself:
+I thought it was a real pity that no instructions existed for this cool model. Thus, I wanted to generate them based on my experience, so other builders could also have the chance to play with it. After weighting several options, I decided to use [Bricklink Studio](https://www.bricklink.com/v3/studio/download.page){: target="_blank"}. I was amazed by how easy it is to use, even if you don't have experience using CAD software. Besides allowing you to create virtual models, you can also generate their instructions practically in an identical style as an original LEGO booklet. See for yourself: <br>
 
-* **You can get the [instructions here](../pdfs/lego/9748_battle_droid_stap.pdf)**
+<p align="center">
+  <a href="../pdfs/lego/9748_battle_droid_stap.pdf">
+  <img height="50" src="../multimedia/elements/download_instructions.png">
+  </a>
+</p>
 
 Moreover, you can also produce renders of your creations, which look astonishing (the image above is actually a render - I would never be able to take such a photograph).
 
