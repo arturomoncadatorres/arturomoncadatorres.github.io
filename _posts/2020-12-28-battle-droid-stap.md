@@ -52,8 +52,8 @@ I thought it was a real pity that no instructions existed for this cool model. T
 <br>
 
 <p align="center">
-  <a href="../pdfs/lego/9748_battle_droid_stap.pdf" target="_blank" style="text-decoration: none">
-  <img height="40" src="../multimedia/elements/download_instructions.png">
+  <a href="../pdfs/lego/9748_battle_droid_stap.pdf" target="_blank" style="text-decoration:none">
+  <img width="40%" src="../multimedia/elements/download_instructions.png">
   </a>
 </p>
 
