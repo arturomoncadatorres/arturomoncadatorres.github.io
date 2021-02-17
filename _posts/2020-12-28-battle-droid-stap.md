@@ -15,6 +15,7 @@ tags:
   - ddk
   - droid-developer-kit
   - lego
+  - lego-9748
   - star-wars
 ---
 
