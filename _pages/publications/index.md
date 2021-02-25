@@ -13,7 +13,7 @@ Please contact me if you are having trouble accessing any of the listed publicat
 [[BibTeX](../../bibtex/clouth2020heterogeneity.txt){:target="_blank"}, [PDF (Open Access)](https://theoncologist.onlinelibrary.wiley.com/doi/10.1002/onco.13655){:target="_blank"}]
 0. T. Van Hirtum, **A. Moncada-Torres**, P. Ghesquière, J. Wouters, "Envelope Enhancement Improves Speech Intelligibility in Adults With Dyslexia". *Ear and Hearing*, vol. 49, no. 5, 2019, p. 1242-1252.  
 [[BibTeX](../../bibtex/vanhirtum2019speech.txt){:target="_blank"}, [PDF](https://journals.lww.com/ear-hearing/Abstract/2019/09000/Speech_Envelope_Enhancement_Instantaneously.18.aspx){:target="_blank"}]
-0. S. Magits, **A. Moncada-Torres**, L. Van Deun, J. Wouters, A. van Wieringen, T. Francart, "The Effect of Presentation Level in Spectrotemporal Modulation Detection". *Hearing Research*, vol. 371, 2019, p. 11-18.  
+0. S. Magits\*, **A. Moncada-Torres**\*, L. Van Deun, J. Wouters, A. van Wieringen, T. Francart, "The Effect of Presentation Level in Spectrotemporal Modulation Detection". *Hearing Research*, vol. 371, 2019, p. 11-18.  
 [[BibTeX](../../bibtex/magits2019effect.txt){:target="_blank"}, [PDF](https://www.sciencedirect.com/science/article/pii/S0378595517306020){:target="_blank"}, [PDF (Pre-print)](https://www.biorxiv.org/node/135489.abstract){:target="_blank"}]
 0. **A. Moncada-Torres**, S. N. Joshi, A. Prokopiou, J. Wouters, B. Epp, T. Francart, “A Computational Model of Interaural Difference Discrimination of Normal Hearing and Hearing Impaired Listeners”. *Journal of the Acoustical Society of America*, vol. 144, 2018, p. 940-954.  
 [[BibTeX](../../bibtex/moncada-torres2018framework.txt){:target="_blank"}, [PDF](https://asa.scitation.org/doi/10.1121/1.5051322){:target="_blank"}]
@@ -26,6 +26,8 @@ Please contact me if you are having trouble accessing any of the listed publicat
 0. **A. Moncada-Torres**, K. Leuenberger, R. Gonzenbach, A. Luft, R. Gassert, "Activity classification based on inertial and barometric pressure sensors at different anatomical locations". *Physiological Measurement*, vol. 35, 2014, p. 1245-1263.  
 [[BibTeX](../../bibtex/moncada-torres2014activity.txt){:target="_blank"}, [PDF (Open Access)](http://stacks.iop.org/0967-3334/35/1245){:target="_blank"}]
 {: reversed="reversed"}
+
+<sub><sup>Asterisks (*) denote either joint first-authorship or joint last-authorship</sup></sub>
 
 [Back to top](#top)
 
