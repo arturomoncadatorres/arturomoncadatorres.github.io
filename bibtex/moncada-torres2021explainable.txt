@@ -1,0 +1,10 @@
+@article{moncada-torres2021explainable,
+  author    = {Moncada-Torres, Arturo and van Maaren, Marissa C. and Hendriks, Mathijs P. and Siesling, S. and Geleijnse, Gijs},
+  journal   = {Scientific Reports},
+  volume    = {11},
+  number    = {6968},
+  pages     = {1--13},
+  year      = {2021},
+  publisher = {Nature Publishing Group},
+  url       = {https://www.nature.com/articles/s41598-021-86327-7}
+}

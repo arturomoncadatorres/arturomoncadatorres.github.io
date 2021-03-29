@@ -9,6 +9,8 @@ Please contact me if you are having trouble accessing any of the listed publicat
 
 ### Peer-reviewed Journal Papers
 
+0. **A. Moncada-Torres**, M. van Maaren, M. P. Hendriks, S. Siesling, G. Geleijnse, "Explainable machine learning can outperform Cox regression predictions and provide insights in breast cancer survival". *Scientific Reports*, vol. 11, no. 6968, 2021, p. 1-13.<br>
+[[BibTeX](../../bibtex/moncada-torres2021explainable.txt){:target="_blank"}, [PDF (Open Access)](https://www.nature.com/articles/s41598-021-86327-7){:target="_blank"}]
 0. F. J. Clouth, **A. Moncada-Torres**, G. Geleijnse, F. Mols, F. N. van Erning, I. H. J. T. de Hingh, S. C. Pauws, L. V. van de Poll-Franse, J. K. Vermunt, "Heterogeneity in quality of life of long-term colon cancer survivors: a latent class analysis of the population-based PROFILES registry". *The Oncologist*, vol. 25, 2020, p. 1-8.<br>
 [[BibTeX](../../bibtex/clouth2020heterogeneity.txt){:target="_blank"}, [PDF (Open Access)](https://theoncologist.onlinelibrary.wiley.com/doi/10.1002/onco.13655){:target="_blank"}]
 0. T. Van Hirtum, **A. Moncada-Torres**, P. Ghesquière, J. Wouters, "Envelope Enhancement Improves Speech Intelligibility in Adults With Dyslexia". *Ear and Hearing*, vol. 49, no. 5, 2019, p. 1242-1252.  
