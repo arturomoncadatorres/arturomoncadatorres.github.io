@@ -24,7 +24,7 @@ tags:
 
 Previously, I looked into [Pok&eacute;mon's popularity from all 7 generations](https://github.com/arturomoncadatorres/favorite-pokemon){: target="_blank"}. However, I felt the visualizations were a bit static. Furthermore, you couldn't get details on your preferred Pok&eacute;mon. Therefore, I decided to extend this project and created an interactive dashboard using [Bokeh](https://bokeh.pydata.org/en/latest/index.html){: target="_blank"} and [Binder](https://mybinder.org/){: target="_blank"} to visualize the results of the survey. It allows you to choose whatever Pok&eacute;mon you want and see its preference ranking compared to all Pok&eacute;mon, compared to all Pok&eacute;on of its generation, and how did people voted for it in time during the period in which the survey was open (notice how the color of that plot corresponds to the Pok&eacute;mon's dominant color)
 
-<img src="../multimedia/images/pokemon_interactive.png" width="100%" align="center">
+<img src="../multimedia/images/pokemon/pokemon_interactive.png" width="100%" align="center">
 
 <!--more-->
 

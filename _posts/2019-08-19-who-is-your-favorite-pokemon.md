@@ -19,7 +19,7 @@ tags:
 
 The newest entries of the Pok&eacute; main series, Pok&eacute;mon Sword and Pok&eacute;mon Shield will be released later this year. However, the new generation of pocket monsters came with the news that [you won't be able to complete the national Pok&eacute;dex](http://www.nintendolife.com/news/2019/06/you_cannot_have_a_complete_national_pokedex_in_pokemon_sword_and_shield). In other words, you won't be able to capture all the Pok&eacute;mon from previous 7 generations. In a series where "Gotta catch'em all" is its catch phrase, this caused a huge backslash by some members of the community. Their main argument was that "every Pok&eacute;mon is someone's favorite". Is this actually true?
 
-<img src="../multimedia/images/pokemon_sword_shield.png" width="100%" align="center">
+<img src="../multimedia/images/pokemon/pokemon_sword_shield.png" width="100%" align="center">
 
 <!--more-->
 

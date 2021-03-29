@@ -1,9 +1,9 @@
 ---
-title: New Paper: Explainable Machine Learning in Predictions of Breast Cancer Survival
+title: New Paper - Explainable Machine Learning in Predictions of Breast Cancer Survival
 date: 2021-03-26-01T01:12:15+01:00
 author: Arturo
 layout: post
-description: New publication
+description: New publication on explainable machine learning
 permalink: new-paper-explainable-machine-learning-can-outperform-cox/
 mood: speechless
 categories:
@@ -30,7 +30,7 @@ tags:
 One of the projects that I have enjoyed the most as part of my job at IKNL has been the application of explainable machine learning to survival predictions. Well, today I woke up with the happy news that our latest study in this field has been accepted for publication in Scientific Reports!
 
 <p align="center">
-  <img width="75%" src="../multimedia/images/posts/moncada-torres2021explainable.png">
+  <img width="75%" src="../multimedia/images/moncada-torres2021explainable.png">
 </p>
 
 <!--more-->
