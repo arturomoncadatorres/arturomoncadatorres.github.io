@@ -40,13 +40,13 @@ I generated the instructions using [Bricklink Studio](https://www.bricklink.com/
 
 <br>
 <p align="center">
-  <a href="https://rebrickable.com/mocs/MOC-66780/arturomoncadatorres/aat-ms5" target="_blank" style="text-decoration:none">
+  <a href="https://rebrickable.com/mocs/MOC-75008/arturomoncadatorres/super-leviathan/" target="_blank" style="text-decoration:none">
   <img width="40%" src="../multimedia/elements/download_instructions.png">
   </a>
 </p>
 <br>
 
-The instructions also include a bill of materials, in case you decide to build the Super Leviathan on your own. You can also find the inventory on its corresponding [Rebrickable page](https://rebrickable.com/mocs/MOC-66780/arturomoncadatorres/aat-ms5/#parts){: target="_blank"}. The instructions are free to download. However, you can always [buy me a cookie](https://www.buymeacoffee.com/amoncadatorres) if you want to show some appreciation.
+The instructions also include a bill of materials, in case you decide to build the Super Leviathan on your own. You can also find the inventory on its corresponding [Rebrickable page](https://rebrickable.com/mocs/MOC-75008/arturomoncadatorres/super-leviathan/#parts){: target="_blank"}. The instructions are free to download. However, you can always [buy me a cookie](https://www.buymeacoffee.com/amoncadatorres) if you want to show some appreciation.
 
 ## Gallery
 If you build this model, please share some pictures! I'd love to add them here.
