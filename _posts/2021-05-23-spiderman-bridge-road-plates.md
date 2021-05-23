@@ -1,5 +1,5 @@
 ---
-title: Spider-Man's Ultimate Bridge Battle with New Road Plates!
+title: Spider-Man's Ultimate Bridge Battle with New Road Plates
 date: 2021-05-23-01T19:00:00+01:00
 author: Arturo
 layout: post
@@ -30,7 +30,7 @@ On 2021, LEGO released a new type of road plates (set 60304), which are very eas
 
 
 <p align="center">
-  <img width="85%" src="../multimedia/images/spiderman_bridge_road_plates/spiderman_bridge_road_plates.png">
+  <img width="100%" src="../multimedia/images/spiderman_bridge_road_plates/spiderman_bridge_road_plates.png">
 </p>
 
 <!--more-->
