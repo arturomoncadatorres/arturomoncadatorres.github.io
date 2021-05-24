@@ -3,7 +3,7 @@ title: Spider-Man's Ultimate Bridge Battle with New Road Plates
 date: 2021-05-23-01T19:00:00+01:00
 author: Arturo
 layout: post
-description: Instructions to modify Spider-Man: Web Warriors Ultimate Bridge Battle using the 2021 road plates
+description: Instructions to modify Spider-Man Web Warriors Ultimate Bridge Battle using the 2021 road plates
 permalink: spiderman-bridge-road-plates
 mood: speechless
 categories:
