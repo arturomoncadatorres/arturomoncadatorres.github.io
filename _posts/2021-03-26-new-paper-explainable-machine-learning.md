@@ -14,6 +14,7 @@ tags:
   - ai
   - artificial-intelligence
   - data-science
+  - iknl
   - machine-learning
   - explainability
   - paper
@@ -30,7 +31,7 @@ tags:
 One of the projects that I have enjoyed the most as part of my job at IKNL has been the application of explainable machine learning to survival predictions. Well, today I woke up with the happy news that our latest study in this field has been accepted for publication in Scientific Reports!
 
 <p align="center">
-  <img width="75%" src="../multimedia/images/moncada-torres2021explainable.png">
+  <img width="75%" src="../multimedia/images/iknl/moncada-torres2021explainable.png">
 </p>
 
 <!--more-->
