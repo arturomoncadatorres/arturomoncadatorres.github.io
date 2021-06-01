@@ -28,7 +28,7 @@ tags:
 The federated learning landscape is evolving incredibly fast. This is in big part due to its fantastic community, which is pushing the boundaries of what decentralized analysis can do. Moreover, the intrinsic nature of this technology promotes collaborations across different parties. As one of these collaborations, I am thrilled to announce a partnership between vantage6 and DataSHIELD.
 
 <p align="center">
-  <img width="50%" src="../multimedia/images/iknl/vantage6_datashield.png">
+  <img width="75%" src="../multimedia/images/iknl/vantage6_datashield.png">
 </p>
 
 
