@@ -1,6 +1,6 @@
 ---
 title: Partnership between vantage6 and DataSHIELD
-date: 2021-08-17-01T13:55:00+01:00
+date: 2021-08-17-01T16:40:00+01:00
 author: Arturo
 layout: post
 description: Incorporating Anaconda Prompt to Windows Terminal
@@ -104,6 +104,7 @@ In the end, the whole thing should look like this:
     "name": "Conda",
     "startingDirectory": "D:/Users/your_user_name/Documents"
 }
+{%endhighlight%}
 
 Don't forget the comma `,` at the beginning! It is needed to separate the newly created profile from the old ones. Remember to use your own generated GUID. Lastly, be careful to use quotation marks appropriately. If you have any (syntax) errors, you will get a message from the Windows Terminal settings window. Go to the given line and column to fix them.
 
