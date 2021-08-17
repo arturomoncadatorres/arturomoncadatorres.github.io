@@ -1,9 +1,9 @@
 ---
-title: Partnership between vantage6 and DataSHIELD
+title: Incorporating an Anaconda Prompt to a Windows Terminal
 date: 2021-08-17-01T16:40:00+01:00
 author: Arturo
 layout: post
-description: Incorporating Anaconda Prompt to Windows Terminal
+description: Incorporating an Anaconda Prompt to a Windows Terminal
 permalink: incorporating-anaconda-prompt-windows-terminal/
 mood: speechless
 categories:
