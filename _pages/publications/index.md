@@ -42,7 +42,10 @@ Please contact me if you are having trouble accessing any of the listed publicat
 
 [Back to top](#top)
 
-### Peer-/Panel-reviewed Posters
+### Peer-/Panel-reviewed Posters/Talks
+0. F. Crezee, M.C. van Maaren, M.P. Hendriks, S. Siesling, A. ten Teije, **A. Moncada-Torres**, "Explainable Machine Learning for Breast Cancer Survival Predictions using Registry Data". European Network of Cancer Registries Scientific Meeting 2021. Online. November 16-18, 2021.
+0. H.H.B. Wenzel\*, T.H. Schnack\*, A. Norberg Hardie, R.L.M. Bekkers, H. Falconer, C.K. Hogdall, P.T. Jensen, V.E.P.P. Lemmens, F. Martin, H.W. Nijman, M.A. van der Aa, **A. Moncada-Torres**, "Identifying predictors of lymph node metastases in early-stage cervical cancer by transferring prediction models across international registries". 22nd European Congress of Gynaecological Oncology. Prague, Czech Republic. October 23-25, 2021.
+0. **A. Moncada-Torres**\*, F.M. Janssen\*, B.L. Heesterman, Q.J.M. Voorham, P.A. Seegers, K.K.H. Aben, "Using Explainable Machine Learning to Study the Effect of Synoptic Reporting on Prostate Cancer Survival". Annual Scientific Conference of the International Association of Cancer Registries. Online. October 12-14, 2021.
 0. **A. Moncada-Torres**, F. Martin, K. Aben, S. Willems, R. Voorham, P. Seegers, G. Geleijnse, "Implementation and Deployment of a Federated Logistic Regression". HealthRI 2020. Utrecht, Netherlands. January 30, 2020.
 0. F. Martin, **A. Moncada-Torres**, M. Sieswerda, J. van Soest, G. Geleijnse, "Showcasing the Personal Health Train: Federated Learning in Real Time using VANTAGE". HealthRI 2020. Utrecht, Netherlands. January 30, 2020.
 0. K. Ebben, **A. Moncada-Torres**, G. M. Out, G. Geleijnse, J. van der Werf, T. van Vegchel, "Projecting Patient Data onto Clinical Decision Trees in Oncoguide". HealthRI 2020. Utrecht, Netherlands. January 30, 2020.
@@ -56,8 +59,10 @@ Please contact me if you are having trouble accessing any of the listed publicat
 0. A. Prokopiou, **A. Moncada-Torres**, J. Wouters, T. Francart. “Functional modelling of just noticeable differences in interaural time difference discrimination for bimodal and bilateral cochlear implant stimulation”. Workshop on Auditory Neuroscience, Cognition and Modelling. London, UK. February 17, 2016.
 0. **A. Moncada-Torres**, R. Koning, J. Wouters, T. Francart. “Predicting Phoneme and Word Recognition using a Computational Model of the Normal Auditory Periphery”. Auditory Modeling Workshop. Oldenburg, Germany. June 12-14, 2015.
 0. **A. Moncada-Torres**, R. Koning, J. Wouters, T. Francart. “Predicting Phoneme and Word Recognition using a Computational Model in Normal-Hearing Listeners”. ARCHES. Oldenburg, Germany. November 17-18, 2014.
-0. R. R. Gonzenbach, K. Leuenberger, **A. Moncada-Torres**, R. Gassert, A. R. Luft, ["ReSense - wearable sensor modules to monitor movement and activities of daily life in stroke patients over extended time periods"](https://kongress.imk.ch/sfcns2013/posters){:target="_blank"}. SFCNS Congress. Montreaux, Switzerland. June 5-7, 2013.
+0. R. R. Gonzenbach, K. Leuenberger, **A. Moncada-Torres**, R. Gassert, A. R. Luft, "ReSense - wearable sensor modules to monitor movement and activities of daily life in stroke patients over extended time periods". SFCNS Congress. Montreaux, Switzerland. June 5-7, 2013.
 {: reversed="reversed"}
+
+<sub><sup>Asterisks (*) denote either joint first-authorship or joint last-authorship</sup></sub>
 
 [Back to top](#top)
 
