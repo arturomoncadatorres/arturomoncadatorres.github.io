@@ -9,9 +9,11 @@ Please contact me if you are having trouble accessing any of the listed publicat
 
 ### Peer-reviewed Journal Papers
 
-0. **A. Moncada-Torres**, M. van Maaren, M. P. Hendriks, S. Siesling, G. Geleijnse, "Explainable machine learning can outperform Cox regression predictions and provide insights in breast cancer survival". *Scientific Reports*, vol. 11, no. 6968, 2021, p. 1-13.<br>
+0. F.M. Janssen, K.K.H. Aben, B.L. Heesterman, Q.J.M. Voorham, P.A. Seegers, **A. Moncada-Torres**, "Using Explainable Machine Learning to Explore the Impact of Synoptic Reporting on Prostate Cancer". *Algorithms*, vol. 15, no. 49, 2022, p. 1-14.<br>
+[[BibTeX](../../bibtex/janssen2022using.txt){:target="_blank"}, [PDF (Open Access)](https://www.mdpi.com/1999-4893/15/2/49){:target="_blank"}]
+0. **A. Moncada-Torres**, M. van Maaren, M.P. Hendriks, S. Siesling, G. Geleijnse, "Explainable machine learning can outperform Cox regression predictions and provide insights in breast cancer survival". *Scientific Reports*, vol. 11, no. 6968, 2021, p. 1-13.<br>
 [[BibTeX](../../bibtex/moncada-torres2021explainable.txt){:target="_blank"}, [PDF (Open Access)](https://www.nature.com/articles/s41598-021-86327-7){:target="_blank"}]
-0. F. J. Clouth, **A. Moncada-Torres**, G. Geleijnse, F. Mols, F. N. van Erning, I. H. J. T. de Hingh, S. C. Pauws, L. V. van de Poll-Franse, J. K. Vermunt, "Heterogeneity in quality of life of long-term colon cancer survivors: a latent class analysis of the population-based PROFILES registry". *The Oncologist*, vol. 25, 2020, p. 1-8.<br>
+0. F.J. Clouth, **A. Moncada-Torres**, G. Geleijnse, F. Mols, F.N. van Erning, I.H.J.T. de Hingh, S.C. Pauws, L.V. van de Poll-Franse, J.K. Vermunt, "Heterogeneity in quality of life of long-term colon cancer survivors: a latent class analysis of the population-based PROFILES registry". *The Oncologist*, vol. 25, 2020, p. 1-8.<br>
 [[BibTeX](../../bibtex/clouth2020heterogeneity.txt){:target="_blank"}, [PDF (Open Access)](https://theoncologist.onlinelibrary.wiley.com/doi/10.1002/onco.13655){:target="_blank"}]
 0. T. Van Hirtum, **A. Moncada-Torres**, P. Ghesquière, J. Wouters, "Envelope Enhancement Improves Speech Intelligibility in Adults With Dyslexia". *Ear and Hearing*, vol. 49, no. 5, 2019, p. 1242-1252.  
 [[BibTeX](../../bibtex/vanhirtum2019speech.txt){:target="_blank"}, [PDF](https://journals.lww.com/ear-hearing/Abstract/2019/09000/Speech_Envelope_Enhancement_Instantaneously.18.aspx){:target="_blank"}]
@@ -21,7 +23,7 @@ Please contact me if you are having trouble accessing any of the listed publicat
 [[BibTeX](../../bibtex/moncada-torres2018framework.txt){:target="_blank"}, [PDF](https://asa.scitation.org/doi/10.1121/1.5051322){:target="_blank"}]
 0. A. Prokopiou, **A. Moncada-Torres**, J. Wouters, T. Francart, “Functional Modelling of Just Noticeable Differences in Interaural Time Difference Discrimination with Normal Hearing and Bilateral Cochlear Implants”. Journal of Neural Engineering, vol 14, no. 4, 2017, p. 1-21.  
 [[BibTeX](../../bibtex/prokopiou2017functional.txt){:target="_blank"}, [PDF](http://iopscience.iop.org/article/10.1088/1741-2552/aa7075){:target="_blank"}]
-0. **A. Moncada-Torres**, A. van Wieringen, I. C. Bruce, J. Wouters, T. Francart. "Predicting Phoneme and Word Recognition in Noise using a Computational Model of the Auditory Periphery". *Journal of the Acoustical Society of America*, vol. 141, 2017, p. 300-312.  
+0. **A. Moncada-Torres**, A. van Wieringen, I.C. Bruce, J. Wouters, T. Francart. "Predicting Phoneme and Word Recognition in Noise using a Computational Model of the Auditory Periphery". *Journal of the Acoustical Society of America*, vol. 141, 2017, p. 300-312.  
 [[BibTeX](../../bibtex/moncada-torres2016predicting.txt){:target="_blank"}, [PDF](http://asa.scitation.org/doi/abs/10.1121/1.4973569){:target="_blank"}]
 0. Y. Kim, **A. Moncada-Torres**, J. Ferrer, M. Riesch, R. Gassert, "Quantification of White Cane Usage Characteristics of People with Visual Impairment". *Applied Ergonomics*, vol. 55, 2016, p. 216-225.  
 [[BibTeX](../../bibtex/kim2016quantification.txt){:target="_blank"}, [PDF](http://www.sciencedirect.com/science/article/pii/S0003687016300291){:target="_blank"}]
@@ -48,7 +50,7 @@ Please contact me if you are having trouble accessing any of the listed publicat
 0. **A. Moncada-Torres**\*, F.M. Janssen\*, B.L. Heesterman, Q.J.M. Voorham, P.A. Seegers, K.K.H. Aben, "Using Explainable Machine Learning to Study the Effect of Synoptic Reporting on Prostate Cancer Survival". Annual Scientific Conference of the International Association of Cancer Registries. Online. October 12-14, 2021.
 0. **A. Moncada-Torres**, F. Martin, K. Aben, S. Willems, R. Voorham, P. Seegers, G. Geleijnse, "Implementation and Deployment of a Federated Logistic Regression". HealthRI 2020. Utrecht, Netherlands. January 30, 2020.
 0. F. Martin, **A. Moncada-Torres**, M. Sieswerda, J. van Soest, G. Geleijnse, "Showcasing the Personal Health Train: Federated Learning in Real Time using VANTAGE". HealthRI 2020. Utrecht, Netherlands. January 30, 2020.
-0. K. Ebben, **A. Moncada-Torres**, G. M. Out, G. Geleijnse, J. van der Werf, T. van Vegchel, "Projecting Patient Data onto Clinical Decision Trees in Oncoguide". HealthRI 2020. Utrecht, Netherlands. January 30, 2020.
+0. K. Ebben, **A. Moncada-Torres**, G.M. Out, G. Geleijnse, J. van der Werf, T. van Vegchel, "Projecting Patient Data onto Clinical Decision Trees in Oncoguide". HealthRI 2020. Utrecht, Netherlands. January 30, 2020.
 0. T. Van Hirtum, **A. Moncada-Torres**, P. Ghesquière, J. Wouters, "Exploring speech envelope enhancement for auditory intervention in children with dyslexia". SPIN 2019. Ghent, BE. 10-11 January, 2019.
 0. T. Van Hirtum, **A. Moncada-Torres**, P. Ghesquière, J. Wouters, "The potential of speech envelope enhancement for auditory intervention in dyslexia". IHCON 2018. Granlibakken, California, USA. August 15-19, 2018.
 0. T. Van Hirtum, **A. Moncada-Torres**, P. Ghesquière, J. Wouters, "Exploring Speech Envelope Enhancement in Adults with Dyslexia". SPIN 2018. Glasgow, UK. 11 – 12 January, 2018.
