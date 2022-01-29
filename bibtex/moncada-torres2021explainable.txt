@@ -1,4 +1,5 @@
 @article{moncada-torres2021explainable,
+  title     = {Explainable machine learning can outperform Cox regression predictions and provide insights in breast cancer survival},
   author    = {Moncada-Torres, Arturo and van Maaren, Marissa C. and Hendriks, Mathijs P. and Siesling, S. and Geleijnse, Gijs},
   journal   = {Scientific Reports},
   volume    = {11},

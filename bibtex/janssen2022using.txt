@@ -1,4 +1,5 @@
 @article{janssen2022using,
+  title     = {Using Explainable Machine Learning to Explore the Impact of Synoptic Reporting on Prostate Cancer},
   author    = {Janssen, Femke M. and Aben, Katja K. H. and Heesterman, Berdine L. and Voorham, Quirinus J. M. and Seegers, Paul A. and Moncada-Torres, Arturo},
   journal   = {Algorithms},
   volume    = {15},
