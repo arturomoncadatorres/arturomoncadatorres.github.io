@@ -1,0 +1,10 @@
+@article{janssen2022using,
+  author    = {Janssen, Femke M. and Aben, Katja K. H. and Heesterman, Berdine L. and Voorham, Quirinus J. M. and Seegers, Paul A. and Moncada-Torres, Arturo},
+  journal   = {Algorithms},
+  volume    = {15},
+  number    = {49},
+  pages     = {1--14},
+  year      = {2022},
+  doi       = {10.3390/a15020049}
+  url       = {https://www.mdpi.com/1999-4893/15/2/49}
+}
