@@ -8,7 +8,6 @@ order: 2
 Please contact me if you are having trouble accessing any of the listed publications.
 
 ### Peer-reviewed Journal Papers
-
 0. F.M. Janssen, K.K.H. Aben, B.L. Heesterman, Q.J.M. Voorham, P.A. Seegers, **A. Moncada-Torres**, "Using Explainable Machine Learning to Explore the Impact of Synoptic Reporting on Prostate Cancer". *Algorithms*, vol. 15, no. 49, 2022, p. 1-14.<br>
 [[BibTeX](../../bibtex/janssen2022using.txt){:target="_blank"}, [PDF (Open Access)](https://www.mdpi.com/1999-4893/15/2/49){:target="_blank"}]
 0. **A. Moncada-Torres**, M. van Maaren, M.P. Hendriks, S. Siesling, G. Geleijnse, "Explainable machine learning can outperform Cox regression predictions and provide insights in breast cancer survival". *Scientific Reports*, vol. 11, no. 6968, 2021, p. 1-13.<br>
@@ -31,16 +30,19 @@ Please contact me if you are having trouble accessing any of the listed publicat
 [[BibTeX](../../bibtex/moncada-torres2014activity.txt){:target="_blank"}, [PDF (Open Access)](http://stacks.iop.org/0967-3334/35/1245){:target="_blank"}]
 {: reversed="reversed"}
 
-<sub><sup>Asterisks (*) denote either joint first-authorship or joint last-authorship</sup></sub>
+<sub><sup>Asterisks (*) denote either joint first- or last-authorship</sup></sub>
 
 [Back to top](#top)
 
 ### Peer-reviewed Conference Papers
+0. D. Smits\*, B. van Beusekom\*, F. Martin, L. Veen, G. Geleijnse, **A. Moncada-Torres**, "An Improved Infrastructure for Privacy-Preserving Analysis of Patient Data", *Proceedings of the International Conference of Informatics, Management, and Technology in Healthcare (ICIMTH)*, 2022.<br>
 0. **A. Moncada-Torres**, F. Martin, M. Sieswerda, J. van Soest, G. Geleijnse, "VANTAGE6: an open source priVAcy preserviNg federaTed leArninG infrastructurE for Secure Insight eXchange", *AMIA Annual Symposium Proceedings*, 2020, p. 870-877.<br>
 [[BibTeX](../../bibtex/moncada-torres2020vantage6.txt){:target="_blank"}, [PDF](https://vantage6.ai/documents/7/moncada-torres2020vantage6_57GU4Gt.pdf){:target="_blank"}, [Presentation](https://www.youtube.com/watch?v=HVHvlkAeuD0){:target="_blank"}]
 0. T. Jansen, G. Geleijnse, M. van Maaren, M. P. Hendriks, A. Ten Teije, **A. Moncada-Torres**, "Machine Learning Explainability in Breast Cancer Survival", *Studies in Health Technology and Informatics - Proceedings of the 30th Medical Informatics Europe Conference*, vol. 270 (Digital Personalized Health and Medicine), 2020, p. 307-311.
 [[BibTeX](../../bibtex/jansen2020machine.txt){:target="_blank"}, [PDF (Open Access)](http://ebooks.iospress.nl/volumearticle/54174){:target="_blank"}]
 {: reversed="reversed"}
+
+<sub><sup>Asterisks (*) denote either joint first- or last-authorship</sup></sub>
 
 [Back to top](#top)
 
