@@ -106,7 +106,7 @@ Notice that since I am using GitHub Pages, I commented the line `gem "jekyll", "
 ## Tips, tricks, and troubleshooting
 - The `_site` files are in  the `.gitignore` because they are generated every time that the site is updated. Once in GitHub Pages, these files are generated based on the web content. There is really no need to push them at all.
 - To change the code (color) theme:
-  - Go to https://jwarby.github.io/jekyll-pygments-themes/languages/python.html
+  - Go to this gallery of [CSS themes for the Pygments syntax highlighter used by Jekyll](https://jwarby.github.io/jekyll-pygments-themes/languages/python.html){: target="_blank"} (by `jwarby`)
   - Choose a theme
   - Got to `assets/partials/_syntax.scss` and replace the content with that of the chosen theme
   - Additionally, add the line `.highlight {background: #fff; border: 1px solid $grey-color-lightest; padding: 15px;}` at the beginning to keep the box
@@ -128,6 +128,7 @@ Notice that since I am using GitHub Pages, I commented the line `gem "jekyll", "
       BASEURL = BASEURL
     end
     ```
+
 - If `MSYS2` or `MINGW` are not installing properly as part of the base installation
   When installing `Ruby+Devkit`, you should also install `MSYS2` or `MINGW` in order to be able to compile `Ruby` extensions. However, I've experienced that some times the installer gets stuck and you see something like this:
 
