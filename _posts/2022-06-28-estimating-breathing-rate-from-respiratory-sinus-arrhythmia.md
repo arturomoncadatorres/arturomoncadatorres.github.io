@@ -26,7 +26,7 @@ As a Biomedical Engineer, I've always been fascinated by working with physiologi
 
 <figure class="aligncenter">
 	<img width="600" src="../multimedia/gifs/respiration_animation.gif"/>
-  <figcaption>GIF for display purposes only. You can find the code for generating it [here](https://github.com/arturomoncadatorres/breathing-rate-rsa/blob/main/multimedia/make_gif.py){: target="_blank"}. Original lung GIF by [PresenterMedia](https://www.presentermedia.com/powerpoint-animation/human-lungs-pa-pid-3795){: target="_blank"}</figcaption>
+  <figcaption>GIF for display purposes only. Original lung GIF by PresenterMedia</figcaption>
 </figure>
 
 <!--more-->
