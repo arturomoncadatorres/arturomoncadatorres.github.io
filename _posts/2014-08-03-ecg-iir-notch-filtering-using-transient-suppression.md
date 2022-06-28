@@ -16,6 +16,7 @@ tags:
   - matlab
   - notch
   - python
+  - wearables
 ---
 <figure class="alignleft">
 	<img width="32" src="../multimedia/icons/python.png"/>
