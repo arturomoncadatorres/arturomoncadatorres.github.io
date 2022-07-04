@@ -1,0 +1,8 @@
+@InProceedings{smits2022improved,
+  author    = {Smits, Djura and van Beusekom, Bart and Martin, Frank and Veen, Lourens and Geleijnse, Gijs and Moncada-Torres, Arturo},
+  booktitle = {Proceedings of the International Conference of Informatics, Management, and Technology in Healthcare (ICIMTH)},
+  title     = {An Improved Infrastructure for Privacy-Preserving Analysis of Patient Data},
+  year      = {2022},
+  volume    = {295},
+  pages     = {144--147}
+}
