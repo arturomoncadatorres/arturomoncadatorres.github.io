@@ -41,7 +41,7 @@ Early Stage Cervical Cancer at Low Risk For Lymph Node Metastases". Under review
 
 ### Peer-reviewed Conference Papers
 0. D. Smits\*, B. van Beusekom\*, F. Martin, L. Veen, G. Geleijnse, **A. Moncada-Torres**, "An Improved Infrastructure for Privacy-Preserving Analysis of Patient Data", *Proceedings of the International Conference of Informatics, Management, and Technology in Healthcare (ICIMTH)*, vol. 25, 2022, p. 144-147.<br>
-[[BibTeX](../../bibtex/moncada-torres2020vantage6.txt){:target="_blank"}, [PDF](https://ebooks.iospress.nl/volumearticle/60190){:target="_blank"}]
+[[BibTeX](../../bibtex/smits2022improved.txt){:target="_blank"}, [PDF](https://ebooks.iospress.nl/volumearticle/60190){:target="_blank"}]
 0. **A. Moncada-Torres**, F. Martin, M. Sieswerda, J. van Soest, G. Geleijnse, "VANTAGE6: an open source priVAcy preserviNg federaTed leArninG infrastructurE for Secure Insight eXchange", *AMIA Annual Symposium Proceedings*, 2020, p. 870-877.<br>
 [[BibTeX](../../bibtex/moncada-torres2020vantage6.txt){:target="_blank"}, [PDF](https://vantage6.ai/documents/7/moncada-torres2020vantage6_57GU4Gt.pdf){:target="_blank"}, [Presentation](https://www.youtube.com/watch?v=HVHvlkAeuD0){:target="_blank"}]
 0. T. Jansen, G. Geleijnse, M. van Maaren, M. P. Hendriks, A. Ten Teije, **A. Moncada-Torres**, "Machine Learning Explainability in Breast Cancer Survival", *Studies in Health Technology and Informatics - Proceedings of the 30th Medical Informatics Europe Conference*, vol. 270 (Digital Personalized Health and Medicine), 2020, p. 307-311.<br>
