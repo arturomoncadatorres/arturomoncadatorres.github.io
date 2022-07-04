@@ -10,9 +10,7 @@ Please contact me if you are having trouble accessing any of the listed publicat
 ### Peer-reviewed Journal Papers
 0. H.H. Wenzel, A. Norberg Hardie, R.L. Bekkers, H. Falconer, C.K. Hogdall, P.T. Jensen, V.E. Lemmens, F. Martin, A.J. van Gestel, **A. Moncada-Torres**, H.W. Nijman, M.A. van der Aa, T.H. Schnack, "Using Federated Learning to Identify Women with
 Early Stage Cervical Cancer at Low Risk For Lymph Node Metastases". Under review, 2022<br>
-[[BibTeX](../../bibtex/janssen2022using.txt){:target="_blank"}, [PDF (Open Access)](https://www.mdpi.com/1999-4893/15/2/49){:target="_blank"}]
-0. M. Cellamare, A.J. van Gestel, H. Alradhi, F. Martin, **A. Moncada-Torres**, "A Federated Generalized Linear Model for Privacy-Preserving Analysis". *Algorithms*, vol. XX, no. XX, 2022, p. 1-12.<br>
-[[BibTeX](../../bibtex/janssen2022using.txt){:target="_blank"}, [PDF (Open Access)](https://www.mdpi.com/1999-4893/15/2/49){:target="_blank"}]
+0. M. Cellamare, A.J. van Gestel, H. Alradhi, F. Martin, **A. Moncada-Torres**, "A Federated Generalized Linear Model for Privacy-Preserving Analysis". *Algorithms*, Under review, 2022.<br>
 0. F.M. Janssen, K.K.H. Aben, B.L. Heesterman, Q.J.M. Voorham, P.A. Seegers, **A. Moncada-Torres**, "Using Explainable Machine Learning to Explore the Impact of Synoptic Reporting on Prostate Cancer". Special issue on "Interpretability, Accountability and Robustness in Machine Learning" in *Algorithms*, vol. 15, no. 49, 2022, p. 1-14.<br>
 [[BibTeX](../../bibtex/janssen2022using.txt){:target="_blank"}, [PDF (Open Access)](https://www.mdpi.com/1999-4893/15/2/49){:target="_blank"}]
 0. **A. Moncada-Torres**, M. van Maaren, M.P. Hendriks, S. Siesling, G. Geleijnse, "Explainable machine learning can outperform Cox regression predictions and provide insights in breast cancer survival". *Scientific Reports*, vol. 11, no. 6968, 2021, p. 1-13.<br>
