@@ -1,0 +1,11 @@
+@article{cellamare2022federated,
+  title     = {A Federated Generalized Linear Model for Privacy-Preserving Analysis},
+  author    = {Cellamare, Matteo and van Gestel, Anna J. and Alradhi, Hasan and Martin, Frank and Moncada-Torres, Arturo},
+  journal   = {Algorithms},
+  volume    = {15},
+  number    = {7},
+  pages     = {1--12},
+  year      = {2022},
+  doi       = {10.3390/a15070243}
+  url       = {https://www.mdpi.com/1999-4893/15/7/243}
+}
