@@ -12,7 +12,7 @@ tags:
   - technical document
   - thesis
   - writing
-  - paper
+
 ---
 <figure class="alignleft">
 	<img width="32" src="../multimedia/icons/latex.png"/>

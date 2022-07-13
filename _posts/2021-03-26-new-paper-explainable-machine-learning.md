@@ -12,9 +12,7 @@ categories:
   - Paper
 tags:
   - ai
-  - artificial-intelligence
   - data-science
-  - iknl
   - machine-learning
   - explainability
   - paper
