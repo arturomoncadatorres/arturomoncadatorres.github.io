@@ -11,10 +11,15 @@ tags:
   - latex
   - technical document
   - thesis
+  - winedt
 ---
 <figure class="alignleft">
 	<img width="32" src="../multimedia/icons/latex.png"/>
 </figure>
+<figure class="alignleft">
+	<img width="32" src="../multimedia/icons/winedt.png"/>
+</figure>
+
 Recently, quite a few friends have been finishing their degrees and preparing their final theses. A very common struggle was the actual procedure of writing the thesis document. I don't mean sitting down and writing the content (which is already quite challenging itself), but to manage big amounts of text, figures, and (specially) references efficiently. Being such a big fan of LaTeX myself, I always recommend it. However, setting up everything for the first time might not be very intuitive for everyone, since it requires a few steps. Therefore, I decided to write this small guide on how to setup LaTeX in your computer for the first time.
 
 <!--more-->
