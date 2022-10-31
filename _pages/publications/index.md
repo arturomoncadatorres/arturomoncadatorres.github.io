@@ -52,6 +52,7 @@ Early Stage Cervical Cancer at Low Risk For Lymph Node Metastases". Under review
 [Back to top](#top)
 
 ### Peer-/Panel-reviewed Posters/Talks
+0. H.H. Wenzel, A. Norberg Hardie, R.L. Bekkers, H. Falconer, C.K. Hogdall, P.T. Jensen, V.E. Lemmens, F. Martin, **A. Moncada-Torres**, H.W. Nijman, M.A. van der Aa, T.H. Schnack, "Identifying Women with Early-stage Cervical Cancer at Low Risk of Lymph Node Metastases in a Large International Cohort – A Logistic Regression Analysis Without Sharing Privacy-sensitive Patient Data". 23th European Congress of Gynaecological Oncology. Berlin, Germany. October 27-30, 2022.
 0. O.L. van der Hel, K. Ebben, T. van Vegchel, **A. Moncada-Torres**, J. van der Werf, M.A. van der Aa, C.D. de Kroon, "Using Data-Driven Algorithms and Real-World Data for Updating Endometrial Clinical Practice Guidelines". 23th European Congress of Gynaecological Oncology. Berlin, Germany. October 27-30, 2022.
 0. K. Ebben, T. van Vegchel, **A. Moncada-Torres**, O.L. van der Hel, J. van der Werf, "Using Data-Driven Decision Algorithms and Real-World Data for Updating Clinical Practice Guidelines". Guidelines International Network (GIN) 2022 Conference. Toronto, Canada. September 21-24, 2022.
 0. T. van Vegchel, K. Ebben, **A. Moncada-Torres**, O.L. van der Hel, J. van der Werf, "Visualising Data-driven Decision Algorithms for Consulting Clinical Practice Guidelines". Guidelines International Network (GIN) 2022 Conference. Toronto, Canada. September 21-24, 2022.
