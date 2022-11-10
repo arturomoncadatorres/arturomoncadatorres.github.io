@@ -56,5 +56,7 @@ tags:
 
 You can find all the files of my website in my [GitHub repository](https://github.com/arturomoncadatorres/arturomoncadatorres.github.io){: target="_blank"}.
 
+*Update*: Nicholas Pachulski came up with a workaround that automates the process (a bit) using a gem. You can check it out [here](https://pachulski.me/jekyll-blog-post-tags-and-github-pages). I haven't tried out myself, but it looks promising!
+
 ----------
 If you have any comments, questions or feedback, leave them in the comments below [or drop me a line on Twitter (@amoncadatorres)](http://www.twitter.com/amoncadatorres){: target="_blank"}. Moreover, if you found this useful, fun, or just want to show your appreciation, you can always [buy me a cookie](https://www.buymeacoffee.com/amoncadatorres){: target="_blank"}. Cheers!
