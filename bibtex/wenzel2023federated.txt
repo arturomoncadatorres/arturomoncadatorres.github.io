@@ -1,0 +1,8 @@
+@article{wenzel2023federated,
+  title={A Federated Approach to Identify Women with Early-Stage Cervical Cancer at Low Risk of Lymph Node Metastases},
+  author={Wenzel, Hans H.B. and Hardie Anna N. and Moncada-Torres, Arturo and H{\o}gdall, Claus K and Bekkers, Ruud L.M. and Falconer, Henrik and Jensen, Pernille T. and Nijman, Hans W. and van der Aa, Maaike A. and Martin, Frank and van Gestel, Anna J. and Lemmens, Valery E.P.P. and Dahm-K{"a}hler, Pernilla and Alfonzo, Emilia and Persson, Jan and Ekdahl, Linnea and Salehi, Sahar and Fr{\oding}, Ligita P. and Markauskas, Algirdas and Fuglsang, Katrine and Schnack, Tine H.},
+  journal={European Journal of Cancer},
+  volume={185},
+  pages={61--68},
+  year={2023}
+}

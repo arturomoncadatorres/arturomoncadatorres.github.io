@@ -8,8 +8,8 @@ order: 2
 Please contact me if you are having trouble accessing any of the listed publications.
 
 ### Peer-reviewed Journal Papers
-0. H.H. Wenzel, A. Norberg Hardie, R.L. Bekkers, H. Falconer, C.K. Hogdall, P.T. Jensen, V.E. Lemmens, F. Martin, A.J. van Gestel, **A. Moncada-Torres**, H.W. Nijman, M.A. van der Aa, T.H. Schnack, "Using Federated Learning to Identify Women with
-Early Stage Cervical Cancer at Low Risk For Lymph Node Metastases". Under review, 2022<br>
+0. H.H.B. Wenzel, A. Norberg Hardie, **A. Moncada-Torres**, C.K. Høgdall, R.L.M. Bekkers, H. Falconer, P.T. Jensen, H.W. Nijman, M.A. van der Aa, F. Martin, A.J. van Gestel, V.E.P.P. Lemmens, P. Dahm-Kähler, E. Alfonzo, J. Persson, L. Ekdahl, S. Salehi, L.P. Frøding, A. Markauskas, K. Fuglsang, T.H. Schnack, "A Federated Approach to Identify Women with Early-Stage Cervical Cancer at Low Risk of Lymph Node Metastases", *European Journal of Cancer*, vol 185, 2023, p.61-68<br>
+[[BibTeX](../../bibtex/wenzel2023federated.txt){:target="_blank"}, [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0959804923001120){:target="_blank"}]
 0. M. Cellamare, A.J. van Gestel, H. Alradhi, F. Martin, **A. Moncada-Torres**, "A Federated Generalized Linear Model for Privacy-Preserving Analysis". *Algorithms*, vol. 15, no. 7, 2022, p. 1-12.<br>
 [[BibTeX](../../bibtex/cellamare2022federated.txt){:target="_blank"}, [PDF (Open Access)](https://mdpi.com/1999-4893/15/7/243/){:target="_blank"}]
 0. F.M. Janssen, K.K.H. Aben, B.L. Heesterman, Q.J.M. Voorham, P.A. Seegers, **A. Moncada-Torres**, "Using Explainable Machine Learning to Explore the Impact of Synoptic Reporting on Prostate Cancer". Special issue on "Interpretability, Accountability and Robustness in Machine Learning" in *Algorithms*, vol. 15, no. 2, 2022, p. 1-14.<br>
