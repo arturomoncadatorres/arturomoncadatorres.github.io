@@ -1,10 +1,10 @@
 ---
-title: New Paper - A Federated Generalized Linear Model for Privacy-Preserving Analysis
-date: 2022-07-13-01T01:13:25+01:00
+title: New Paper - A Federated Approach to Identify Women with Early-stage Cervical Cancer
+date: 2023-02-23-01T01:13:25+01:00
 author: Arturo
 layout: post
-description: New publication on explainable machine learning
-permalink: new-paper-federated-glm/
+description: New publication on federated learning
+permalink: new-paper-federated-approach/
 mood: speechless
 categories:
   - Data Science
@@ -14,7 +14,7 @@ tags:
   - data-science
   - federated-learning
   - paper
-  - r
+  - python
   - vantage6
 ---
 
@@ -25,7 +25,7 @@ tags:
 	<img width="32" src="../multimedia/icons/python.png"/>
 </figure>
 
-After more than two years of work, I am happy to share that our latest paper is out! Here, we used federated learning (more specifically, the logistic regression flavor of our previously published [GLM model](https://arturomoncadatorres.com/new-paper-federated-glm/)) to identify women at low risk of pN+ cervical cancer. This work has the potential to be used as a guide in shared decision-making process when considering the extent of lymph node dissection.
+After more than two years of work, I am happy to share that our latest paper is out! Here, we used federated learning (more specifically, the logistic regression flavor of our previously published [GLM model](https://arturomoncadatorres.com/new-paper-federated-glm/){:target="_blank"}) to identify women at low risk of pN+ cervical cancer. This work has the potential to be used as a guide in shared decision-making process when considering the extent of lymph node dissection.
 
 <p align="center">
   <img width="75%" src="../multimedia/images/papers/wenzel2023federated.png">
