@@ -2,12 +2,12 @@
 name: Arturo Moncada-Torres
 job_title: Biomedical Engineer & Data Scientist
 email: arturomoncadatorres@gmail.com
-description: Passionate about improving people’s health through data-informed solutions. Nintendo, Marvel, and LEGO enthusiast.
+description: Passionate about improving people’s health through data-informed solutions. LEGO, Marvel, Star Wars, and videogame enthusiast.
 avatar: /multimedia/avatar.jpeg
 favicon: /favicon.ico
 twitter_handler: amoncadatorres
 analytics_code: UA-30715105-1
-disqus: 
+disqus:
     shortname: arturomoncadatorres
 
 # Social Accounts
@@ -20,14 +20,14 @@ social_networks:
 -  { name: skype, url: '' }
 -  { name: github, url: 'https://github.com/arturomoncadatorres' }
 -  { name: google-scholar, url: 'https://scholar.google.com/citations?user=o0pPxc8AAAAJ&hl=en' }
--  { name: orcid, url: 'https://orcid.org/0000-0001-7233-2117' }
+# -  { name: orcid, url: 'https://orcid.org/0000-0001-7233-2117' }
 -  { name: codepen, url: '' }
 -  { name: stack-overflow, url: '' }
 -  { name: dribbble, url: '' }
 -  { name: behance, url: '' }
 -  { name: pinterest, url: '' }
 -  { name: tumblr, url: '' }
-# -  { name: youtube, url: 'https://www.youtube.com/channel/UCMORmWOBKewmqVYI3PZFABQ?feature=mhee' }
+-  { name: youtube, url: 'https://www.youtube.com/channel/UCMORmWOBKewmqVYI3PZFABQ?feature=mhee' }
 -  { name: vimeo, url: '' }
 -  { name: vine, url: '' }
 -  { name: 500px, url: '' }
