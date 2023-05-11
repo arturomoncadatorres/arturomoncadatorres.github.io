@@ -1,10 +1,10 @@
 ---
-title: Using `.github` in Enterprise Accounts
+title: Using the .github directory in Enterprise Accounts
 date: 2023-05-10T00:00:01+01:00
 author: Arturo
 layout: post
 description: How to configure the folder .github for (enterprise) GitHub organizations
-permalink: /using-github-in-directory-enterprise-accounts/
+permalink: /using-the-github-directory-in-enterprise-accounts/
 mood: speechless
 categories:
   - Github
