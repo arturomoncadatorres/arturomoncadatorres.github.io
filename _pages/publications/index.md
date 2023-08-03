@@ -8,6 +8,8 @@ order: 2
 Please contact me if you are having trouble accessing any of the listed publications.
 
 ### Peer-reviewed Journal Papers
+0. K. Ebben, C. de Kroon, C. Schmeink, O. van der Hel, T. van Vegchel, **A. Moncada-Torres**, I. de Hingh, J. van der Werf, "A Novel Method for Continuous Measurements of Clinical Practice Guideline Adherence", *Learning Health Systems*, In press<br>
+[[BibTeX](../../bibtex/wenzel2023federated.txt){:target="_blank"}, [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0959804923001120){:target="_blank"}]
 0. H.H.B. Wenzel, A. Norberg Hardie, **A. Moncada-Torres**, C.K. Høgdall, R.L.M. Bekkers, H. Falconer, P.T. Jensen, H.W. Nijman, M.A. van der Aa, F. Martin, A.J. van Gestel, V.E.P.P. Lemmens, P. Dahm-Kähler, E. Alfonzo, J. Persson, L. Ekdahl, S. Salehi, L.P. Frøding, A. Markauskas, K. Fuglsang, T.H. Schnack, "A Federated Approach to Identify Women with Early-Stage Cervical Cancer at Low Risk of Lymph Node Metastases", *European Journal of Cancer*, vol 185, 2023, p.61-68<br>
 [[BibTeX](../../bibtex/wenzel2023federated.txt){:target="_blank"}, [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0959804923001120){:target="_blank"}]
 0. M. Cellamare, A.J. van Gestel, H. Alradhi, F. Martin, **A. Moncada-Torres**, "A Federated Generalized Linear Model for Privacy-Preserving Analysis". *Algorithms*, vol. 15, no. 7, 2022, p. 1-12.<br>
