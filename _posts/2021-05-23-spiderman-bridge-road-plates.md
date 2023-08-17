@@ -60,7 +60,7 @@ I generated the instructions using [Bricklink Studio](https://www.bricklink.com/
 </p>
 <br>
 
-The instructions also include a bill of materials, in case you decide to build the Super Leviathan on your own. You can also find the inventory on its corresponding [Rebrickable page](https://rebrickable.com/mocs/MOC-77395/arturomoncadatorres/spider-man-bridge-battle-lego-city-roadplates/#parts){: target="_blank"}. The instructions are free to download. However, you can always [buy me a cookie](https://www.buymeacoffee.com/amoncadatorres) if you want to show some appreciation.
+The instructions also include a bill of materials, in case you decide to build the bridge on your own. You can also find the inventory on its corresponding [Rebrickable page](https://rebrickable.com/mocs/MOC-77395/arturomoncadatorres/spider-man-bridge-battle-lego-city-roadplates/#parts){: target="_blank"}. The instructions are free to download. However, you can always [buy me a cookie](https://www.buymeacoffee.com/amoncadatorres) if you want to show some appreciation.
 
 ## Gallery
 If you build this model, please share some pictures! I'd love to add them here.
