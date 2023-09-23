@@ -1,0 +1,8 @@
+@article{ebben2023novel,
+  title={A Novel Method for Continuous Measurements of Clinical Practice Guideline Adherence},
+  author={Ebben, Kees C.W.J. and de Kroon, Cornelis D. and Schmeink, Channa E. and van der Hel, Olga L. and van Vegchel, Thijs and Moncada-Torres, Arturo and de Hingh, Ignace H.J.T. and van der Werf, Jurrian},
+  journal={Learning Health Systems},
+  volume={e10384},
+  pages={1--12},
+  year={2023}
+}
