@@ -40,7 +40,7 @@ CDTs revealed 68 data items for recording in an information standard. Thirty-two
 > *Conclusion*
 The developed methodology can evaluate a guideline to identify potential improvements in recommendations and the success of the implementation strategy. In addition, it is able to identify patient and disease characteristics that influence decision-making in clinical practice. The method supports a cyclical process of developing, implementing and evaluating guidelines and can be scaled to other diseases and settings. It contributes to a learning healthcare cycle that integrates real-world data with external knowledge.
 
-If you are interested, you can find the paper [here](https://onlinelibrary.wiley.com/doi/epdf/10.1002/lrh2.10384){:target="_blank"} (and its corresponding [BibTeX citation here](https://arturomoncadatorres.com/bibtex/ebben2023novel.txt){:target="_blank"}).
+If you are interested, you can find the paper [here (Open Access)](https://onlinelibrary.wiley.com/doi/epdf/10.1002/lrh2.10384){:target="_blank"} (and its corresponding [BibTeX citation here](https://arturomoncadatorres.com/bibtex/ebben2023novel.txt){:target="_blank"}).
 
 ----------
 If you have any comments, questions or feedback, leave them in the comments below or drop me a line on Twitter [(@amoncadatorres)](https://twitter.com/amoncadatorres).
