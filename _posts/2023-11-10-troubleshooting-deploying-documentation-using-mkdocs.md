@@ -122,8 +122,8 @@ by updating `ci.yml` as follows:
 
 {%endhighlight%}
 
-As you can see, in line XX, we are telling GitHub actions "hey, execute this step starting
-in `./docs`. This way, it can find `mkdocs.yml`.
+As you can see, in line 25, we are telling GitHub actions "hey, execute this step starting
+in `./docs`". This way, it can find `mkdocs.yml`.
 
 ## 2. `Config value 'plugins': The "XXX" plugin is not installed`
 I ran into this issue with the `mkdocstrings` and `git-revision-date-localized` plugins.
@@ -164,8 +164,9 @@ To fix it, update `ci.yml` as follows:
 
 {%endhighlight%}
 
-You will have to do this for any additional plugins that required you installing
-something in your local machine.
+In lines 25 and 26 we install the required plugins. You will have to do this
+for any additional plugins that required you installing something in your
+local machine.
 
 ## 3. `ModuleNotFoundError: No module named 'mkdocstrings_handlers'`
 (Earlier in the log, you might also see `ERROR   -  Error reading page 'api_reference/foo.md': No module named 'mkdocstrings_handlers'`)
@@ -212,6 +213,9 @@ by updating `ci.yml` as follows:
 
 {%endhighlight%}
 
+As you can see, in line 25 we are providing the proper dependency to
+`mkdocstrings` by telling it to use the Python version.
+
 ## 4. `ERROR   -  mkdocstrings: No module named 'cool_package'`
 You might have your package installed in your local machine, but it is not installed
 in the created virtual environment.
@@ -252,7 +256,7 @@ To do so, just update `ci.yml` as follows:
 
 {%endhighlight%}
 
-As you can see in line XX, we are now telling it to install `cool_package`. Given my file structure
+As you can see in line 27, we are now telling it to install `cool_package`. Given my file structure
 (see Sec. 0 above), `.` points to where `cool_package`'s, `setup.py` is located. Of course, if your
 file organization is different, you might have to adapt this (probably using a trick similar to
 the one showed in Sec. 1).
