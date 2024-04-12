@@ -15,18 +15,12 @@ tags:
   - technical document
   - windows
 ---
-https://discourse.jabref.org/t/jabref-installation-windows-10-security-warning/2853/3
-https://scoop.sh/#/
-
-
-Need to have Git installed! Important
-Need to have Git installed! Important
 
 <figure class="alignleft">
 	<img width="32" src="../multimedia/icons/jabref.png"/>
 </figure>
 
-This week, I was setting up my new work computer (with Windows). As part of it, I wanted to install my favorite reference manager: [`JabRef`](https://www.jabref.org/){: target="_blank"}. 
+This week, I was setting up my new work computer (with Windows). As part of it, I wanted to install my favorite reference manager: [`JabRef`](https://www.jabref.org/){: target="_blank"}.
 Unfortunately, the [normal installation](https://docs.jabref.org/installation){: target="_blank"} (i.e., [downloading the `.msi` file](https://downloads.jabref.org/){: target="_blank"})
 didn't work, since Windows Protection was blocking it:
 
@@ -41,8 +35,8 @@ I would like to share a few of them and which one worked for me. Hopefully this 
 <!--more-->
 
 ## 1. Use the portable version
-Portable versions can be a great alternative to a conventional installation. Actually, JabRef has a [portable version](https://docs.jabref.org/installation#portable-version){: target="_blank"} of its own. 
-Just download the version corresponding to your operating system, extract the files... and that's pretty much it. You can even run JabRef (or any other portable app) from a USB drive (if you still have one). 
+Portable versions can be a great alternative to a conventional installation. Actually, JabRef has a [portable version](https://docs.jabref.org/installation#portable-version){: target="_blank"} of its own.
+Just download the version corresponding to your operating system, extract the files... and that's pretty much it. You can even run JabRef (or any other portable app) from a USB drive (if you still have one).
 Unfortunately, in my case this didn't work either, so on to Option 2.
 
 
@@ -73,8 +67,8 @@ scoop install jabref
 ```
 
 That's it! You can use a similar procedure with other programs that Windows blocks. Nevertheless, **be extra careful with the software that you install in your machine**!
-Make sure that it always comes from a trusted sourced. Windows blocks these installations because of a reason. I trust JabRef because I have used it 
-for a long time and it comes from a reliable source. However, more often than not, this is not the case. 
+Make sure that it always comes from a trusted sourced. Windows blocks these installations because of a reason. I trust JabRef because I have used it
+for a long time and it comes from a reliable source. However, more often than not, this is not the case.
 
 ----------
 If you have any comments, questions or feedback, leave them in the comments below [or drop me a line on Twitter (@amoncadatorres)](http://www.twitter.com/amoncadatorres){: target="_blank"}.
