@@ -29,7 +29,7 @@ tags:
 Recently, I was working in a (Python) project that was completely set up using [Poetry](https://python-poetry.org/){: target="_blank"}. Up to now, I hadn't had the 
 opportunity (or the need) to try it out, so this seemed like a good learning opportunity.
 
-Except for a few caveats[^1], Poetry has been very simple and straightforward to use. However, it still has [some disadvantages compared to `conda`](https://www.geeksforgeeks.org/conda-vs-poetry-in-python/){: target="_blank"}
+Except for a few caveats[1], Poetry has been very simple and straightforward to use. However, it still has [some disadvantages compared to `conda`](https://www.geeksforgeeks.org/conda-vs-poetry-in-python/){: target="_blank"}
 (my go-to solution for environment and package management), namely:
 
 1. Poetry only supports Python projects. Sure, I work mostly with Python, but what will happen when I need to use or combine a different framework?
@@ -120,8 +120,7 @@ such as using [`Pixi`](https://pixi.sh/latest/){: target="_blank"} (as suggested
 or [`uv`](https://docs.astral.sh/uv/){: target="_blank"} (which claims to be [extremely fast](https://github.com/astral-sh/uv/blob/main/BENCHMARKS.md){: target="_blank"}). 
 I hope I have the chance to take a look at them in the future.
 
-[^1]: For example, [`install` ](https://python-poetry.org/docs/cli/#install){: target="_blank"} installs *all* dependencies of a project's `pyproject.toml`; 
-if you want to install a package, you need to use [`add`](https://python-poetry.org/docs/cli/#add){: target="_blank"}.
+[1]: For example, [`install` ](https://python-poetry.org/docs/cli/#install){: target="_blank"} installs *all* dependencies of a project's `pyproject.toml`; if you want to install a package, you need to use [`add`](https://python-poetry.org/docs/cli/#add){: target="_blank"}.
 
 ----------
 If you have any comments, questions or feedback, leave them in the comments below [or drop me a line on Twitter (@amoncadatorres)](http://www.twitter.com/amoncadatorres){: target="_blank"}.
