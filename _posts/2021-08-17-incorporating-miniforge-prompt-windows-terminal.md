@@ -1,38 +1,41 @@
 ---
-title: Incorporating an Anaconda Prompt to a Windows Terminal
+title: Incorporating a Miniforge Prompt to a Windows Terminal
 date: 2021-08-17-01T16:40:00+01:00
 author: Arturo
 layout: post
-description: Incorporating an Anaconda Prompt to a Windows Terminal
-permalink: incorporating-anaconda-prompt-windows-terminal/
+description: Incorporating a Miniforge Prompt to a Windows Terminal
+permalink: incorporating-miniforge-prompt-windows-terminal/
 mood: speechless
 categories:
-  - Anaconda
+  - Miniforge
   - Data Science
 tags:
   - anaconda
   - conda
   - data-science
+  - miniforge
   - setup
   - windows
 ---
 
 <figure class="alignleft">
-	<img width="32" src="../multimedia/icons/conda.png"/>
+	<img width="32" src="../multimedia/icons/miniforge.png"/>
 </figure>
 
-[Anaconda](https://www.anaconda.com/){: target="_blank"} is a fantastic software distribution that has everything that you need to start your Data Science projects. It comes with its own package manager, `conda`, which includes its own command prompt. It is great to manage your environments and launch your tools. However, when you need more than one command prompt open (which happens quite often), it is very annoying to have them spread all over the place. Having them under a single window with a tab system would be much handier. Enter Windows Terminal.
+*2025-05 Update: in the past, this post provided instructions to use Anaconda. However, recently I fell out of love with it, moved to Miniforge and never looked back.*
+
+[Miniforge](https://github.com/conda-forge/miniforge){: target="_blank"} is a fantastic open-source edition of Conda perfect for managing your environments and packages in your Data Science projects. It comes with its own package command prompt, which is very useful on its own. However, what is even better is incorporating it into your Windows Terminal. For example, this gives you more options regarding what you can customize, it even allows you to have different tabs for each open command prompt.
 
 <p align="center">
-  <img width="95%" src="../multimedia/images/anaconda_windows/anaconda_windows.png">
+  <img width="95%" src="../multimedia/images/miniforge_windows/miniforge_windows.png">
 </p>
 
-In this post, I will share the steps that I followed to incorporate Anaconda's Prompt into it.
+In this post, I will share the steps that I followed to incorporate Miniforge's Prompt into it.
 
 <!--more-->
 
-## 0. Get Anaconda
-I assume that you have already installed Anaconda. If not, you can [download it from its website](https://www.anaconda.com/products/individual){: target="_blank"}.
+## 0. Get Miniforge
+I assume that you have already installed Miniforge. If not, you can just follow the [instructions](https://github.com/conda-forge/miniforge?tab=readme-ov-file#install){: target="_blank"}.
 
 ## 1. Get Windows Terminal
 
@@ -43,13 +46,13 @@ The Windows Terminal comes bundled as part of Windows 11. However, if you have W
 Open your freshly installed Windows Terminal. Then, click on the arrow pointing downwards on the tab ribbon and select `Settings` (or use the shortcut `Ctrl + ,`)
 
 <p align="center">
-  <img width="75%" src="../multimedia/images/anaconda_windows/windows_terminal_1.png">
+  <img width="75%" src="../multimedia/images/miniforge_windows/windows_terminal_1.png">
 </p>
 
 In the settings tab, look on the bottom left corner and click on `Open JSON file`
 
 <p align="center">
-  <img width="75%" src="../multimedia/images/anaconda_windows/windows_terminal_2.png">
+  <img width="75%" src="../multimedia/images/miniforge_windows/windows_terminal_2.png">
 </p>
 
 This will open the configuration file in your preferred text editor ([Notepad++](https://notepad-plus-plus.org/){: target="_blank"} in my case)
@@ -58,34 +61,16 @@ This will open the configuration file in your preferred text editor ([Notepad++]
 
 In here, we will create a new profile. Go to the section `profiles` (which should be around line 34). Then, we will add a new element to `profiles.list`. It should have at least the following elements:
 
-* `name`: Straightforward. I chose `Conda`
+* `name`: Straightforward. I chose `Miniforge`
 * `hidden`: We actually want to see it, so set this to `false`
 * `guid`: We need a globally unique identifier - or GUID. As its name states, a GUID uniquely identifies a piece of installed software among all of the other pieces of software on a computer. Generating one is very easy. Simply open a Windows PowerShell and run the command `New-Guid`. Copy and paste the output here. It must be enclosed between curly braces.
-* `commandline`: This one is a bit more cumbersome. Here, we need to specify what command line we want to execute. In other words, we need to give the instruction to open an Anaconda prompt. To do so, we first need to find where it is in our system. In Windows Start, look for `Anaconda` and open the location of the Anaconda Prompt:
+* `commandline`: This one is slightly more cumbersome. Here, we need to specify what command line we want to execute. In other words, we need to give the instruction to open a Miniforge prompt. [To do so](https://github.com/conda-forge/miniforge/issues/136){: target="_blank"}, we need the path where Miniforge was installed. If you didn't change the defaults, this is usually in `C:\Users\your_user_name\miniforge3`. Go there and double check that the file `Scripts\activate` exists. If so, fill the `commandline` with:
 
-<p align="center">
-  <img width="75%" src="../multimedia/images/anaconda_windows/anaconda_prompt_1.png">
-</p>
-
-Then, right click on the Anaconda Prompt shortcut and go to `Properties` (be careful that you do *not* choose the Anaconda Powershell):
-
-<p align="center">
-  <img width="75%" src="../multimedia/images/anaconda_windows/anaconda_prompt_2.png">
-</p>
-
-In here, copy whatever's on the field `Target` and paste it in an empty document of your preferred text editor. We will reshape it from something like this
-
-`%windir%\System32\cmd.exe "/K" C:\ProgramData\Anaconda3\Scripts\activate.bat C:\ProgramData\Anaconda3`
-
-to something like this
-
-`cmd.exe /K C:\\ProgramData\\Anaconda3\\Scripts\\activate.bat`
-
-Copy and paste the latter in the `commandline` field.
+`cmd.exe /K C:\\Users\\your_user_name\\miniforge3\\Scripts\\activate`
 
 We can also add some additional tweaks and preferences, such as:
 
-* `icon`: Path to an image that will be used as an icon. I used a Conda one that was installed in my system.
+* `icon`: Path to an image that will be used as an icon. I downloaded the [image used in Miniforge's GitHub repository](https://images.app.goo.gl/P2vbrEJttURm3o557){: target="_blank"}, converted it to a `.ico`, and saved it to the root directory of my Miniforge installation.
 * `startingDirectory`: Straightforward.
 * `fontFace`: Your preferred font. I like [`Fira Code`](https://twitter.com/amoncadatorres/status/1284143485063434240?s=20){: target="_blank"} very much.
 * `colorScheme`: From the ones available to the Windows Terminal. I like `One Half Dark` (you can, of course, use a different one and even generate a new one!)
@@ -96,22 +81,22 @@ In the end, the whole thing should look like this:
 ,
 {
     "colorScheme": "One Half Dark",
-    "commandline": "cmd.exe /K C:\\ProgramData\\Anaconda3\\Scripts\\activate.bat",
+    "commandline": "cmd.exe /K C:\\Users\\your_user_name\\miniforge3\\Scripts\\activate.bat",
     "fontFace": "Fira Code",
     "guid": "{xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx}",
     "hidden": false,
-    "icon": "C:\\ProgramData\\Anaconda3\\pkgs\\conda-4.9.2-py38haa95532_0\\Lib\\site-packages\\conda\\shell\\conda_icon.ico",
-    "name": "Conda",
+    "icon": "C:\\Users\\your_user_name\\miniforge3\\miniforge_icon_white.ico",
+    "name": "Miniforge",
     "startingDirectory": "D:/Users/your_user_name/Documents"
 }
 {%endhighlight%}
 
 Don't forget the comma `,` at the beginning! It is needed to separate the newly created profile from the old ones. Remember to use your own generated GUID. Lastly, be careful to use quotation marks appropriately. If you have any (syntax) errors, you will get a message from the Windows Terminal settings window. Go to the given line and column to fix them.
 
-That's it! Now you can have a Conda prompt nice and tidy within the Windows Terminal:
+That's it! Now you can have a Miniforge prompt nice and tidy within the Windows Terminal:
 
 <p align="center">
-  <img width="75%" src="../multimedia/images/anaconda_windows/anaconda_prompt_3.png">
+  <img width="75%" src="../multimedia/images/miniforge_windows/miniforge_prompt.png">
 </p>
 
 ----------
